@@ -6,7 +6,11 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.jpg" title="Profile Picture" class="profile">
 
+<<<<<<< HEAD
 #<font size="60"><font color="blue"><font face="segoe script">Education Background</font></font></font>
+=======
+##<font size=60px><font color="blue"><font face="segoe script">Education Background</font></font></font>
+>>>>>>> 7e5d080b9a1833e7023601f992fbd7672e78a9c7
 
 ##<b>[Southeast University]</b>, Electronic Science and Technology, Bachelor,2013.8~2017.6.
 

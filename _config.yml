@@ -9,12 +9,20 @@ exclude:
   - "/vendor/"
 
 # Site settings
+<<<<<<< HEAD
 title: <font size="30"><font face="Myriad pro">Zhao Yi(Akimoto Yuduki)</font></font>
+=======
+title: Zhao Yi(Akimoto Yuduki)
+>>>>>>> 7e5d080b9a1833e7023601f992fbd7672e78a9c7
 subtitle: "More innovation, more miracles."
 email: scchfzy@126.com
 name: Akimoto
 description: >
+<<<<<<< HEAD
   <font face="segoe script"><font size="20">More innovation, more miracles.</font></font>
+=======
+  More innovation, more miracles.
+>>>>>>> 7e5d080b9a1833e7023601f992fbd7672e78a9c7
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
