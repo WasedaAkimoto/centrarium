@@ -4,7 +4,7 @@ title:  "Hey, welcome to visit my personal page more often!"
 date:   2017-08-17 10:16:59
 author: Akimoto
 categories: DailyLife
-tags: motion welcome
+tags: [motion] [welcome]
 cover: "/assets/1.gif"
 ---
 
