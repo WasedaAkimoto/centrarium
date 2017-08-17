@@ -6,11 +6,9 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.jpg" title="Profile Picture" class="profile">
 
-<<<<<<< HEAD
 #<font size="60"><font color="blue"><font face="segoe script">Education Background</font></font></font>
-=======
+
 ##<font size=60px><font color="blue"><font face="segoe script">Education Background</font></font></font>
->>>>>>> 7e5d080b9a1833e7023601f992fbd7672e78a9c7
 
 ##<b>[Southeast University]</b>, Electronic Science and Technology, Bachelor,2013.8~2017.6.
 
@@ -34,17 +32,14 @@ permalink: /about/
 
 #<font size="60"><font color="blue"><font face="segoe script">Internship Experience</font></font></font>
 
-##<b>[SEU Monitor Technology Center]: Design and Research of Electric
-Circuits Based on Water Quality Monitor System</b>, 2016.7-2016.8
+##<b>[SEU Monitor Technology Center]: Design and Research of Electric Circuits Based on Water Quality Monitor System</b>, 2016.7-2016.8
 
-##<b>[Suzhou In-Situ Chip Technology Inc.]</b>: Hardware Design Engineer
-Assistant, 2017.8~2017.10
+##<b>[Suzhou In-Situ Chip Technology Inc.]</b>: Hardware Design Engineer Assistant, 2017.8~2017.10
 
 
 #<font size="60"><font color="blue"><font face="segoe script">Students Work</font></font></font>
 
-##<b>News Departments of 25th Students Union of ESEI in SEU</b>: 2014.8-
-2015.6, Minister
+##<b>News Departments of 25th Students Union of ESEI in SEU</b>: 2014.8-2015.6, Minister
 
 #<font size="60"><font color="blue"><font face="segoe script">Certificates</font></font></font>
 

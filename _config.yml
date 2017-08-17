@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: <font size="30"><font face="Myriad Pro">Zhao Yi(Akimoto Yuduki)</font></font>
-subtitle: <font size="30"><font face="Myriad Pro">"More innovation, more miracles."</font></font>
+title: <font size="25"><font face="Myriad Pro">Zhao Yi(Akimoto Yuduki)</font></font>
+subtitle: <font size="15"><font face="segoe script">"More innovation, more miracles."</font></font>
 email: scchfzy@126.com
 name: Akimoto
 description: >
@@ -73,28 +73,28 @@ social:
   - name: Twitter
     icon: twitter
     username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    url:
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
-    url:
+    username: Zhao Yi
+    url: https://www.facebook.com/profile.php?id=100010808733797
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: WasedaAkimoto
+    url: https://github.com/WasedaAkimoto
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
     username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    url: 
     desc: Connect with me on LinkedIn
     share: true
 
@@ -114,10 +114,10 @@ social:
 
   - name: Instagram
     icon: instagram
-    username:
-    url:
+    username: waseda_akimoto_zhao
+    url: https://www.instagram.com/waseda_akimoto_zhao/
     desc: Follow me on Instagram
-    share: false
+    share: true
 
   - name: Pinterest
     icon: pinterest
