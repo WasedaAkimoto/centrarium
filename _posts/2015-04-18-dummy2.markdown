@@ -14,7 +14,7 @@ categories: Photography
 ![](http://7xskc4.com1.z0.glb.clouddn.com/myblog4_1.jpg)  
 Enlightened by Tokyo suspension girls, YCH and I took the photographs and processed the following suspension photos.
 ![](http://7xskc4.com1.z0.glb.clouddn.com/myblog4_3.jpg)  
-![](http://ouu5qk2pq.bkt.clouddn.com/3.jpg)
+<img src="/assets/3.jpg">
 Atually the procedure is not complecated, just need some carefulness and patience.
 
 # 1.Comparation Before Taking Photos 
@@ -46,7 +46,7 @@ While processing the photos, I found there were many that Bobo existed, so I con
 This way, we finally succeed making suspension photos. It took around several hours during the whole procedure, isn't it very tractable?
 At last, I wanna post some GIFs to show gratitude to my companion.  
 ![](http://7xskc4.com1.z0.glb.clouddn.com/myblog4_ZY.gif) 
-![](http://ouu5qk2pq.bkt.clouddn.com/2.gif)
+<img src="/assets/2.gif">
 
 
 
