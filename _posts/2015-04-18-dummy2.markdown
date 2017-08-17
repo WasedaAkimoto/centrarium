@@ -3,7 +3,7 @@ layout: post
 title:  "How to take suspension photographs"
 date:   2017-08-17 11:19:59
 author: Reposted from YCH
-tag: photography 'Tokyo suspension girl'
+tags: photography "Tokyo suspension girl"
 cover: "/assets/instacode.png"
 categories: Photography
 ---
