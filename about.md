@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Resume
+title: <font face="segoe script">Resume</font>
 permalink: /about/
 ---
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.jpg" title="Profile Picture" class="profile">
 
-<font size=60><font color="blue"><font face="Myriad">Education Background</font></font></font>
+##<font size=60><font color="blue"><font face="segoe script">Education Background</font></font></font>
 
 <b>[Southeast University]</b>, Electronic Science and Technology, Bachelor, 
 2013.8~2017.6.
@@ -20,7 +20,7 @@ etc.
 
 <font color="red">Major Courses:</font> Introduction to System LSI, System LSI Design, On-Chip Memory, Low Power LSI Design, High-speed High-frequency LSI Design, LSI Automation Technologies, Video Signal Processing, Dependable LSI Systems, Opto-electronic Integrated Circuit, Optimazation Technologies, System LSI Software.
 
-<font size=60><font color="blue"><font face="Myriad">Subject Awards</font></font></font>
+##<font size=60><font color="blue"><font face="segoe script">Subject Awards</font></font></font>
 
 <b>SEU 8th Maze Explorer：</b> school-level honourable prize, 2015.1
 
@@ -32,7 +32,7 @@ etc.
 
 <b>SEU 18th Electronic Design：</b> school-level 1st prize, 2016.6
 
-<font size=60><font color="blue"><font face="Myriad">Internship Experience</font></font></font>
+##<font size=60><font color="blue"><font face="segoe script">Internship Experience</font></font></font>
 
 <b>[SEU Monitor Technology Center]: Design and Research of Electric
 Circuits Based on Water Quality Monitor System</b>, 2016.7-2016.8
@@ -41,16 +41,16 @@ Circuits Based on Water Quality Monitor System</b>, 2016.7-2016.8
 Assistant, 2017.8~2017.10
 
 
-<font size=60><font color="blue"><font face="Myriad">Students Work</font></font></font>
+##<font size=60><font color="blue"><font face="segoe script">Students Work</font></font></font>
 
 <b>News Departments of 25th Students Union of ESEI in SEU</b>: 2014.8-
 2015.6, Minister
 
-<font size=60><font color="blue"><font face="Myriad">Certificates</font></font></font>
+##<font size=60><font color="blue"><font face="segoe script">Certificates</font></font></font>
 
 CET-4, CET-6, Computer 2nd class C++
 
-<font size=60><font color="blue"><font face="Myriad">Individual Awards</font></font></font>
+##<font size=60><font color="blue"><font face="segoe script">Individual Awards</font></font></font>
 
 2013~2014, 2014~2015 SEU Merit Students.
 
@@ -66,7 +66,11 @@ CET-4, CET-6, Computer 2nd class C++
 
 2016, SRTP (16062002) Multifunctional Adjustable LED System, GOOD.
 
-<font size=60><font color="blue"><font face="Myriad">Hobbies</font></font></font>
+##<font size=60><font color="blue"><font face="segoe script">Skills</font></font></font>
+
+EDA tools, C++, JAVA, Verilog, Office suits, Adobe series, Japanese.
+
+##<font size=60><font color="blue"><font face="segoe script">Hobbies</font></font></font>
 
 Singing, travelling, photography, making videos.
 
