@@ -51,7 +51,7 @@ descriptions:
   - cat: Academics
     desc: "Some academic knowledges."
 
-  - cat: Daily Life
+  - cat: "Daily Life"
     desc: "About daily life."
     
   - cat: Photography
