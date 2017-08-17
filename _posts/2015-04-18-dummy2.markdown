@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Dummy Post 2"
+title:  "How to take suspension photographs"
 date:   2017-08-17 11:19:59
 author: Reposted from YCH
-categories: Dummy
+tag: photography Tokyo suspension girl
+cover: "/assets/instacode.png"
+categories: Photography
 ---
 
 This is just a dummy post. Lorem ipsum and all the rest.
