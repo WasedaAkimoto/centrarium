@@ -20,8 +20,8 @@ description: >
 # root of your server.
 baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
 url: "https://wasedaakimoto.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+cover: ![](http://ouu5qk2pq.bkt.clouddn.com/header_image.jpg)
+logo:  ![](http://ouu5qk2pq.bkt.clouddn.com/logo.png)
 
 # Build settings
 markdown: kramdown
