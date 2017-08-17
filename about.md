@@ -1,7 +1,7 @@
 ---
 layout: page
-title: <font face="segoe script">"Resume"</font>
-permalink: /about/
+title: <font face="segoe script">Resume</font>
+permalink: /resume/
 ---
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.jpg" title="Profile Picture" class="profile">
