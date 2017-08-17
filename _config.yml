@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Zhao Yi(Akimoto Yuduki)
-subtitle: "More innovation, more miracles."
+title: <font size="30"><font face="Myriad Pro">Zhao Yi(Akimoto Yuduki)</font></font>
+subtitle: <font size="30"><font face="Myriad Pro">"More innovation, more miracles."</font></font>
 email: scchfzy@126.com
 name: Akimoto
 description: >
