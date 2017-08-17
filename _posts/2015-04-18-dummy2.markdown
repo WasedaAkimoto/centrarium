@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "How to take suspension photographs"
+quote:  By using photoshop and an SLC.
 date:   2017-08-17 11:19:59
 author: Reposted from YCH
-tags: photography "Tokyo suspension girl"
+tags:  [photography] [Tokyo suspension girl]
 cover: "/assets/instacode.png"
 categories: Photography
 ---
