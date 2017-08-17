@@ -5,7 +5,7 @@ title:  "How to take suspension photographs"
 date:   2017-08-17 11:19:59
 author: Reposted from YCH
 tags:  photography Tokyosuspensiongirl
-cover: url: http://7xskc4.com1.z0.glb.clouddn.com/bg4.jpg
+cover: "/assets/3.jpg"
 categories: Photography
 ---
 
