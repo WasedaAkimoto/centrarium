@@ -10,10 +10,10 @@ permalink: /resume/
 ---
 <b>[Southeast University]</b>, Electronic Science and Technology, Bachelor, 2013.8 ~ 2017.6.
 ===
-<font color="red">Major Courses:</font> Digital Circuits, Analog Circuits, Circuits Basics,Microcomputer Principle and Interface Technology, Solid Physics, Semi-conductor Physics, Opto-electronic Physics, Signal and System, Electro-Magnetic Field、Optical Theory, VLSI, Communication Theory etc.
+<font color="red">Major Courses:</font> Digital Circuits, Analog Circuits, Circuits Basics,Microcomputer Principle and Interface Technology, Solid Physics, Semi-conductor Physics, Opto-electronic Physics, Signal and System, Electro-Magnetic Field、Optical Theory, VLSI, Communication Theory, etc.
 
 <b>[Waseda University]</b>, Optimization LSI, Master, 2016.9 to date.
-===
+
 <font color="red">Major Courses:</font> Introduction to System LSI, System LSI Design, On-Chip Memory, Low Power LSI Design, High-speed High-frequency LSI Design, LSI Automation Technologies, Video Signal Processing, Dependable LSI Systems, Opto-electronic Integrated Circuit, Optimazation Technologies, System LSI Software.
 
 <font size="60"><font color="blue"><font face="segoe script">Subject Awards</font></font></font>
