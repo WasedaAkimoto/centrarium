@@ -9,12 +9,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: <font size="30"><font face="Myriad pro">Zhao Yi(Akimoto Yuduki)</font></font>
+subtitle: "More innovation, more miracles."
+email: scchfzy@126.com
+name: Akimoto
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  <font face="segoe script"><font size="20">More innovation, more miracles.</font></font>
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
