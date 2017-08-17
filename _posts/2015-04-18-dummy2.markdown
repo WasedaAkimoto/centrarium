@@ -22,7 +22,7 @@ Atually the procedure is not complecated, just need some carefulness and patienc
 First of all, we need a camera and tripod. Because it's hard to get a series of photos that possess completely the same background without tripod. And it's necessary to compare the upholder ahead of time, which should have smallest land area and regular shape as much as possible. 
   
 # 2.Taking Photos  
-如图，用凳子，还有手持，拍摄出人、物体的照片，同样，接触面积需要尽可能的小。尽量拍摄速度快点，因为光影会变化，处理起来更麻烦。  
+Just as the figure shows, we took the photos of people and objects crutched by chair and hand. Also, the land area should be as small as possible. The procedure of taking photos should be as rapid as possible due to the light and shadow change minutely.
 ![](http://7xskc4.com1.z0.glb.clouddn.com/myblog4_4.png)  
 
 ![](http://7xskc4.com1.z0.glb.clouddn.com/myblog4_5.png)  
@@ -34,13 +34,12 @@ First of all, we need a camera and tripod. Because it's hard to get a series of 
 # 3.Photo Processing 
 ![](http://7xskc4.com1.z0.glb.clouddn.com/myblog4_8.png)  
 
-Open the photoshop, put the background on the bottem and the figure and objects on the top layer, extract the graph.
-打开PS，把背景放在底部，把人、物体放在上方，抠出图像。  
+Open the photoshop, put the background on the bottem and the figure and objects on the top layer, extract the graph. 
 ![](http://7xskc4.com1.z0.glb.clouddn.com/myblog4_9.png)  
 ![](http://7xskc4.com1.z0.glb.clouddn.com/myblog4_10.png)  
 ![](http://7xskc4.com1.z0.glb.clouddn.com/myblog4_12.png)  
 ![](http://7xskc4.com1.z0.glb.clouddn.com/myblog4_13.png) 
-我用的是蒙版抠图法，别的方法也行。对了，我最后处理完之后发现很多照片里有波波出现，就顺便把它也加进来了。最后做一些润色就好了。
+While processing the photos, I found there were many that Bobo existed, so I contain it in the photos by the way. And modify the photos a little.
 
 # 4.Achievement   
 ![](http://7xskc4.com1.z0.glb.clouddn.com/myblog4_3.jpg) 
