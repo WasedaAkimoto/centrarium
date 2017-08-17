@@ -5,7 +5,7 @@ title:  "How to take suspension photographs"
 date:   2017-08-17 11:19:59
 author: Reposted from YCH
 tags:  photography Tokyosuspensiongirl
-cover: "/assets/3.jpg"
+cover: <img src="/assets/3.jpg" width=4288 height=2248>
 categories: Photography
 ---
 
@@ -16,6 +16,7 @@ Enlightened by Tokyo suspension girls, YCH and I took the photographs and proces
 ![](http://7xskc4.com1.z0.glb.clouddn.com/myblog4_3.jpg)  
 
 ![](/image/bg4.jpg)
+<img src="/assets/3.jpg">
 做法其实非常的简单，就是需要一点点的细心和耐心。
 
 # 一.拍摄前准备  
