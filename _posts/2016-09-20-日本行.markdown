@@ -7,22 +7,22 @@ categories: Photography
 tags: 日本 旅行
 cover: "/assets/Japan/2017_04_30_403.jpg"
 ---
-<font face="segoe script">日本へ初めて行ったので、早稲田大学で一つ目日は入学式だった。院長と教授たちは講演した。</font>
+# <font face="segoe script">日本へ初めて行ったので、早稲田大学で一つ目日は入学式だった。院長と教授たちは講演した。</font>
 ![](http://ouvr8irjy.bkt.clouddn.com/_DSC7715.jpg)
 
 
-早稲田大学情報生産システム大学院は福岡県北九州市にある、学校の周り毎週末遊んでいた。
+# 早稲田大学情報生産システム大学院は福岡県北九州市にある、学校の周り毎週末遊んでいた。
 ![](http://ouvr8irjy.bkt.clouddn.com/_DSC7833.jpg)
 ひびきの動物園でたくさんカンガルーがある。人に怖いと感じないで、軽く触られるの。
 ![](http://ouvr8irjy.bkt.clouddn.com/_DSC8034.jpg)
 楽しいあまりに高く跳び上がりました！
 ![](http://ouvr8irjy.bkt.clouddn.com/_DSC77871212121212.jpg)
 
-学園祭り、早稲田、北九大、九工大、九共大など、たくさん大学の学生社団は参加したんです。
+# 学園祭り、早稲田、北九大、九工大、九共大など、たくさん大学の学生社団は参加したんです。
 ![](http://ouvr8irjy.bkt.clouddn.com/_DSC8126.jpg)
 ![](http://ouvr8irjy.bkt.clouddn.com/_DSC8204.jpg)
 
-時々都会中心へ行く。
+# 時々都会中心へ行く。
 関門海峡トンネルの両側は北九州市と下関市。
 ![](http://ouvr8irjy.bkt.clouddn.com/_DSC7892-2.jpg)
 小倉城。
@@ -34,7 +34,7 @@ cover: "/assets/Japan/2017_04_30_403.jpg"
 ![](http://ouvr8irjy.bkt.clouddn.com/_DSC8892.jpg)
 
 
-去年クリスマスは二週間休んだ、友達と関西地区へ旅行して決めました。
+# 去年クリスマスは二週間休んだ、友達と関西地区へ旅行して決めました。
 海遊館、天保山大観覧車の近く。
 ![](http://ouvr8irjy.bkt.clouddn.com/_DSC8210.jpg)
 奈良はどちらでも鹿を見られる。
@@ -49,7 +49,7 @@ cover: "/assets/Japan/2017_04_30_403.jpg"
 ![](http://ouvr8irjy.bkt.clouddn.com/_DSC8587.jpg)
 
 
-日本人が一番大好きな桜は咲いていた、満開したの。
+# 日本人が一番大好きな桜は咲いていた、満開したの。
 桜が咲いてる早稲田。
 ![](http://ouvr8irjy.bkt.clouddn.com/_DSC8635.jpg)
 ![](http://ouvr8irjy.bkt.clouddn.com/_DSC8632.jpg)
