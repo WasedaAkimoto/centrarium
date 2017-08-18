@@ -14,8 +14,8 @@ permalink: /resume/
 <font face="segoe script"><font size="20">Akimoto Yuduki</font></font></h2>
 </div>
 
-<embed src="http://ouu5qk2pq.bkt.clouddn.com/Various%20Artists%20-%20Liekkas.mp3" hidden="true" autostart="true" loop="true" volume="100"><!--背景音乐-->
-
+<!---
+<embed src="http://ouu5qk2pq.bkt.clouddn.com/Various%20Artists%20-%20Liekkas.mp3" hidden="true" autostart="true" loop="true"><!--背景音乐-->
 
 ![](http://ouu5qk2pq.bkt.clouddn.com/profile-placeholder.jpg)
 
