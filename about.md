@@ -4,7 +4,11 @@ title: <font face="segoe script">Resume</font>
 permalink: /resume/
 ---
 
+<!---
 <img src="{{ site.baseurl }}/assets/profile-placeholder.jpg" title="Profile Picture" class="profile">
+--->
+
+![](http://ouu5qk2pq.bkt.clouddn.com/profile-placeholder.jpg)
 
 <font size="60"><font color="blue"><font face="segoe script">Education Background</font></font></font>
 ---
