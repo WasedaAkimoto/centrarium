@@ -10,6 +10,25 @@ permalink: /resume/
 
 ![](http://ouu5qk2pq.bkt.clouddn.com/profile-placeholder.jpg)
 
+<html>
+<head>
+
+<style type="text/css">
+body
+{ 
+background-image: 
+url(/assets/instacode.png);
+background-repeat: repeat-y
+}
+</style>
+
+</head>
+
+<body>
+</body>
+</html>
+
+
 <font size="60"><font color="blue"><font face="segoe script">Education Background</font></font></font>
 ---
 ## <b>[Southeast University]</b>, Electronic Science and Technology, Bachelor, 2013.8 ~ 2017.6.
