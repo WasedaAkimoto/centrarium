@@ -10,6 +10,7 @@ permalink: /resume/
 --->
 <!---
 <div style=" height:105px;line-height:px;overflow:;border:0px solid #FF0099;text-align:center" > <font face="德彪钢笔行书字库"><font size="20">赵易</font></font><br /><font face="segoe script"><font size="20">Akimoto Yuduki</font></font></div>--->
+
 <div id="Resume">
 	<h2 style="text-align: center;"><font face="德彪钢笔行书字库"><font size="20">赵易</font></font><br />
 <font face="segoe script"><font size="20">Akimoto Yuduki</font></font></h2>
