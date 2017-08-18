@@ -9,7 +9,7 @@ cover:  "/assets/instacode.png"
 ---
 
 # <font face="德彪钢笔行书字库"><font color="blue">资源文件：</font></font>
-Bitmap:PS里输出24位windows的BMP图片</br>
+Bitmap:PS里输出24位windows的BMP图片<br />
 Cursor:光标可以自绘</br>
 Wave: WMV格式的声音文件</br>
 ICON：这个网上可以转化</br>
