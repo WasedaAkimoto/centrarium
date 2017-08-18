@@ -15,7 +15,7 @@ permalink: /resume/
 </div>
 
 <!---
-<embed src="http://ouu5qk2pq.bkt.clouddn.com/Various%20Artists%20-%20Liekkas.mp3" hidden="true" autostart="true" loop="true"><!--背景音乐-->
+<embed src="http://ouu5qk2pq.bkt.clouddn.com/Various%20Artists%20-%20Liekkas.mp3" hidden="true" autostart="true" loop="true">--->
 
 ![](http://ouu5qk2pq.bkt.clouddn.com/profile-placeholder.jpg)
 
