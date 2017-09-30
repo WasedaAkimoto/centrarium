@@ -47,7 +47,9 @@ permalink: /resume/
 ---
 <b>[SEU Monitor Technology Center]</b>: Design and Research of Electric Circuits Based on Water Quality Monitor System, 2016.7-2016.8
 
-<b>[Suzhou In-Situ Chip Technology Inc.]</b>: Hardware Design Engineer Assistant, 2017.8~2017.10
+<b>[Suzhou In-Situ Chip Technology Inc.]</b>: Hardware Design Engineer Assistant, 2017.8~2017.9
+
+<b>[Suzhou Yunhuaruihe Intellectual Technology Corporation]</b>: Hardware Engineer, 2017.9~2017.10
 
 
 <font size="60"><font color="blue"><font face="segoe script">Students Work</font></font></font>
@@ -105,3 +107,4 @@ You can find out more info about customizing your Jekyll theme, as well as basic
 [Waseda University]: http://www.waseda.jp/top/
 [SEU Monitor Technology Center]: http://electronic.seu.edu.cn/11488/list.htm
 [Suzhou In-Situ Chip Technology Inc.]: http://www.sinoist.com.cn/
+[Suzhou Yunhuaruihe Intellectual Technology Corporation]http://www.clouwi.com/
