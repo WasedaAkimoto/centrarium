@@ -107,4 +107,4 @@ You can find out more info about customizing your Jekyll theme, as well as basic
 [Waseda University]: http://www.waseda.jp/top/
 [SEU Monitor Technology Center]: http://electronic.seu.edu.cn/11488/list.htm
 [Suzhou In-Situ Chip Technology Inc.]: http://www.sinoist.com.cn/
-[Suzhou Yunhuaruihe Intellectual Technology Corporation]http://www.clouwi.com/
+[Suzhou Yunhuaruihe Intellectual Technology Corporation]: http://www.clouwi.com/
