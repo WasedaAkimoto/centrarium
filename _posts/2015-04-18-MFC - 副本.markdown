@@ -3,7 +3,7 @@ layout: post
 title:  "MFC界面美化攻略"
 date:   2014-09-19 18:16:59
 author: Akimoto
-categories: Gourment
+categories: Dailylife
 tags:	MFC programming
 cover:  "/assets/instacode.png"
 ---
