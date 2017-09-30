@@ -3,8 +3,8 @@ layout: post
 title:  <font face="德彪钢笔行书字库">"名扬海外的中餐名菜——宫保鸡丁"</font>
 date:   2017-09-30 10:38:03
 author: 秋本悠月
-categories: Academics
-tags: 美食 自炊 
+categories: Gourment
+tags: CookByMyself DeliciousFood 
 cover: "/assets/Japan/2017_04_30_403.jpg"
 ---
 # <font face="segoe script">首先把鸡胸肉切块状，撒上黑胡椒、孜然等调料，浇上醇香的料酒和酱油等，加淀粉后搅拌均匀腌制十几分钟。</font>
