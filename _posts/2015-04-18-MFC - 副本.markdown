@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  <font face="德彪钢笔行书字库">"名扬海外的中餐名菜——宫保鸡丁"</font>
-date:   2017-09-30 10:38:03
-author: 秋本悠月
-categories: Gourment
-tags: CookByMyself DeliciousFood 
-cover: "/assets/Japan/2017_04_30_403.jpg"
+title:  "MFC界面美化攻略"
+date:   2014-09-19 18:16:59
+author: Akimoto
+categories: Academics
+tags:	MFC programming
+cover:  "/assets/instacode.png"
 ---
 
 # <font face="segoe script">首先把鸡胸肉切块状，撒上黑胡椒、孜然等调料，浇上醇香的料酒和酱油等，加淀粉后搅拌均匀腌制十几分钟。</font>
@@ -17,7 +17,6 @@ cover: "/assets/Japan/2017_04_30_403.jpg"
 # 将胡萝卜先倒入锅内翻炒，随后加入黄瓜、花生米等，再将鸡肉倒入一同翻炒，加盐出锅。
 ![](http://ox2jumurr.bkt.clouddn.com/gongbaojiding4.JPG)
 # 这样，一盘色香味诱人的宫保鸡丁就完成啦！
-
 
 
 
