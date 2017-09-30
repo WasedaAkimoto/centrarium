@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "MFC界面美化攻略"
-date:   2014-09-19 18:16:59
+title:  "名扬海外的中餐名菜——宫保鸡丁"
+date:   2017-09-30 10:38:03
 author: Akimoto
 categories: Academics
-tags:	MFC programming
+tags:	CookByMyself DeliciousFood
 cover:  "/assets/instacode.png"
 ---
 
