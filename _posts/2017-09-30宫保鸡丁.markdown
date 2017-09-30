@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <font size="20"><font face="德彪钢笔行书字库">"名扬海外的中餐名菜——宫保鸡丁"</font></font>
+title:  <font face="德彪钢笔行书字库">"名扬海外的中餐名菜——宫保鸡丁"</font>
 date:   2017-09-30 10:38:00
 author: 秋本悠月
 categories: Academics
