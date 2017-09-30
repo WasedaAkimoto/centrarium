@@ -5,7 +5,7 @@ date:   2017-09-30 10:38:03
 author: Akimoto
 categories: Gourment
 tags:	CookByMyself DeliciousFood
-cover:  "/assets/instacode.png"
+cover:  "/assets/meishi/20131221170652-1363169981.jpg"
 ---
 
 # <font face="segoe script">首先把鸡胸肉切块状，撒上黑胡椒、孜然等调料，浇上醇香的料酒和酱油等，加淀粉后搅拌均匀腌制十几分钟。</font>
