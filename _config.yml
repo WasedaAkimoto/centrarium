@@ -101,11 +101,17 @@ social:
     share: true
 
   - name: QQZone
-    icon: qqzone
+    icon: zone
     username: 秋本明
     url: https://user.qzone.qq.com/751389748
     desc: Friend me on QQZone
     share: true
+
+  - name: QQ
+    icon: qq
+    username: 秋本明
+    url: 
+    share: false
 
   - name: Weibo
     icon: weibo
