@@ -100,6 +100,13 @@ social:
     desc: Fork me on GitHub
     share: true
 
+  - name: QQ
+    icon: qq
+    username: 秋本明
+    url: https://user.qzone.qq.com/751389748
+    desc: Friend me on QQ
+    share: true
+
   - name: LinkedIn
     icon: linkedin
     username: 赵易

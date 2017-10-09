@@ -98,7 +98,6 @@ SetTimer(1, 1000, NULL);<br />
 # <font face="德彪钢笔行书字库"><font color="blue">9.替换exe图标：</font></font>
 在Bitmap中将原图标删去，新图标ID命名为IDB_MAINFRAME，替换后重新生成DeBug即可。
 
-
 <div class="cm-article" data-key="AkimotoYuduki.id"></div>
 
 <link rel="stylesheet" href="//comment.moe/dest/static/css/plus.css">
