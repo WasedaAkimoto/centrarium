@@ -91,19 +91,19 @@ layout: default
     {% endif %}
 
     {% if social.name == "QQZone" and social.share == true %}
-      <a href="//sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey" onclick="window.location = '//sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?' + encodeURIComponent('{{ full_url }}') + '&t={{page.title}}'; return false">
+      <a href="" onclick="window.location = '//sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?' + encodeURIComponent('{{ full_url }}') + '&t={{page.title}}'; return false">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }} fa-lg"></i>
       </a>
     {% endif %}
 
     {% if social.name == "Weibo" and social.share == true %}
-      <a href="//service.weibo.com/share/share.php" onclick="window.location = '//service.weibo.com/share/share.php?count=1' + encodeURIComponent('{{ full_url }}') + '&t={{page.title}}'; return false">
+      <a href="" onclick="window.location = '//service.weibo.com/share/share.php?count=1' + encodeURIComponent('{{ full_url }}') + '&t={{page.title}}'; return false">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }} fa-lg"></i>
       </a>
     {% endif %}
 
     {% if social.name == "QQ" %}
-      <a href="//connect.qq.com/widget/shareqq/index.html" onclick="window.location = '//connect.qq.com/widget/shareqq/index.html?url=' + encodeURIComponent('{{ full_url }}') + '&t={{page.title}}'; return false">
+      <a href="" onclick="window.location = '//connect.qq.com/widget/shareqq/index.html?url=' + encodeURIComponent('{{ full_url }}') + '&t={{page.title}}'; return false">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }} fa-lg"></i>
       </a>
     {% endif %}
