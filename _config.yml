@@ -107,6 +107,13 @@ social:
     desc: Friend me on QQ
     share: true
 
+  - name: Weibo
+    icon: weibo
+    username: 秋本明AkimotoAkila
+    url: http://weibo.com/3592131742/profile?rightmod=1&wvr=6&mod=personinfo
+    desc: Follow me on Weibo
+    share: true
+
   - name: LinkedIn
     icon: linkedin
     username: 赵易
