@@ -97,7 +97,8 @@ layout: default
     {% endif %}
 
     {% if social.name == "Weibo" and social.share == true %}
-      <a href="" onclick="window.location = '//service.weibo.com/share/share.php?count=1' + encodeURIComponent('{{ full_url }}') + '&t={{page.title}}'; return false">
+      <a href="//service.weibo.com/share/share.php?t={{ page.title | cgi_escape }}&u={{ full_url | cgi_escape}}"
+        onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }} fa-lg"></i>
       </a>
     {% endif %}
