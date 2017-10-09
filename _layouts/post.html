@@ -91,7 +91,7 @@ layout: default
     {% endif %}
 
     {% if social.name == "QQ" and social.share == true %}
-      <a href="//sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?" onclick="window.location = '//news.ycombinator.com/submitlink?u=' + encodeURIComponent('{{ full_url }}') + '&t={{page.title}}'; return false">
+      <a href="//sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?" onclick="window.location = '//sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?' + encodeURIComponent('{{ full_url }}') + '&t={{page.title}}'; return false">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }} fa-lg"></i>
       </a>
     {% endif %}
