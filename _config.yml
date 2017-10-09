@@ -62,6 +62,7 @@ descriptions:
   - cat: Gourment
     desc: "The enjoyments of your tongue."
 
+commentsystem:    comment.moe
 # Social icons and sharing options
 #
 # Social settings are used in two places:
