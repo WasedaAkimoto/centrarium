@@ -85,7 +85,7 @@ social:
     username: TheBenCentra
     url:
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
