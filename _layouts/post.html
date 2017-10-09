@@ -98,11 +98,11 @@ layout: default
     {% endif %}
 
 
-    {% if social.name == "QQ"  %}
-      <a href="http://connect.qq.com/widget/shareqq/index.html?url={{ full_url | cgi_escape}}"
+    {% if social.name == "Weibo" and social.share == true %}
+      <a href="http://service.weibo.com/share/share.php?url={{ full_url | cgi_escape}}"
         onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
-    </a>
+      </a>
     {% endif %}
 
   {% endfor %}
