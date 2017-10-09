@@ -74,7 +74,7 @@ layout: default
       </a>
     {% endif %}
     {% if social.name == "Weibo" and social.share == true %}
-      <a href="//www.reddit.com/submit" onclick="window.location = '//service.weibo.com/share/share.php?url=' + encodeURIComponent('{{ full_url }}') + '&title={{page.title}}'; return false">
+      <a href="//service.weibo.com/share/share.php" onclick="window.location = '//service.weibo.com/share/share.php?url=' + encodeURIComponent('{{ full_url }}') + '&title={{page.title}}'; return false">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
       </a>
     {% endif %}
