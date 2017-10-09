@@ -18,11 +18,11 @@ cover:  "/assets/meishi/20131221170652-1363169981.jpg"
 ![](http://ox2jumurr.bkt.clouddn.com/gongbaojiding4.JPG)
 # 这样，一盘色香味诱人的宫保鸡丁就完成啦！
 
-<!----
+
 <div class="cm-article" data-key="AkimotoYuduki.id"></div>
 
 <link rel="stylesheet" href="//comment.moe/dest/static/css/plus.css">
 
 <script src="//comment.moe/dest/static/js/build.js" charset="UTF-8"></script>
----->
+
 

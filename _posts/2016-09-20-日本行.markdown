@@ -55,3 +55,10 @@ cover: "/assets/Japan/2017_04_30_403.jpg"
 ![](http://ouvr8irjy.bkt.clouddn.com/_DSC8632.jpg)
 本城陸上競技場の桜・
 ![](http://ouvr8irjy.bkt.clouddn.com/_DSC8653.jpg)
+
+
+<div class="cm-article" data-key="AkimotoYuduki.id"></div>
+
+<link rel="stylesheet" href="//comment.moe/dest/static/css/plus.css">
+
+<script src="//comment.moe/dest/static/js/build.js" charset="UTF-8"></script>

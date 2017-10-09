@@ -99,6 +99,12 @@ SetTimer(1, 1000, NULL);<br />
 在Bitmap中将原图标删去，新图标ID命名为IDB_MAINFRAME，替换后重新生成DeBug即可。
 
 
+<div class="cm-article" data-key="AkimotoYuduki.id"></div>
+
+<link rel="stylesheet" href="//comment.moe/dest/static/css/plus.css">
+
+<script src="//comment.moe/dest/static/js/build.js" charset="UTF-8"></script>
+
 
 <!---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
