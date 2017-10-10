@@ -91,7 +91,7 @@ layout: default
       </a>
     {% endif %}
     {% if social.name == "QQZone" and social.share == true %}
-      <a href="//sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?text={{ page.title | cgi_escape }}&url={{ full_url | cgi_escape}}&via={{social.username}}"
+      <a href="//www.linkedin.com/shareArticle?mini=true&url={{ full_url | cgi_escape}}"
         onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
       </a>
