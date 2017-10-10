@@ -65,7 +65,7 @@ layout: default
     {% endif %}
     
     {% if social.name == "Weibo" and social.share == true %}
-      <a href="http://v.t.sina.com.cn/share/share.php" onclick="window.open( 'http://v.t.sina.com.cn/share/share.php?url=' + encodeURIComponent('{{ full_url }}') + '&title={{page.title}}'); return false">
+      <a href="http://v.t.sina.com.cn/share/share.php" onclick="window.open( 'http://v.t.sina.com.cn/share/share.php?url=' + encodeURIComponent('{{ full_url }}') ); return false">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
       </a>
     {% endif %}
