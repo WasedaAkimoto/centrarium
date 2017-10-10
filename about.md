@@ -78,7 +78,7 @@ CET-4, CET-6, Computer 2nd class C++
 
 <font size="60"><font color="blue"><font face="segoe script">Skills</font></font></font>
 ---
-EDA tools, C++, JAVA, Verilog, Office suits, Adobe series, Japanese.
+EDA tools, FPGA, embedded system, css, C++ Office, Adobe series.
 
 <font size="60"><font color="blue"><font face="segoe script">Hobbies</font></font></font>
 ---
