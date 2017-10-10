@@ -101,26 +101,6 @@ social:
     desc: Fork me on GitHub
     share: true
 
-  - name: QQZone
-    icon: qq
-    username: 秋本明
-    url: https://user.qzone.qq.com/751389748
-    desc: Friend me on QQZone
-    share: true
-
-  - name: QQ
-    icon: qq
-    username: 秋本明
-    url: 
-    share: false
-
-  - name: Weibo
-    icon: weibo
-    username: 秋本明AkimotoAkila
-    url: http://weibo.com/3592131742/profile?rightmod=1&wvr=6&mod=personinfo
-    desc: Follow me on Weibo
-    share: true
-
   - name: LinkedIn
     icon: linkedin
     username: 赵易
@@ -211,6 +191,26 @@ social:
     url:
     desc: Share to Hacker News
     share: false
+
+  - name: QQZone
+    icon: qq
+    username: 秋本明
+    url: https://user.qzone.qq.com/751389748
+    desc: Friend me on QQZone
+    share: true
+
+  - name: QQ
+    icon: qq
+    username: 秋本明
+    url: 
+    share: false
+
+  - name: Weibo
+    icon: weibo
+    username: 秋本明AkimotoAkila
+    url: http://weibo.com/3592131742/profile?rightmod=1&wvr=6&mod=personinfo
+    desc: Follow me on Weibo
+    share: true
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
