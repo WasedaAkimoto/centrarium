@@ -74,10 +74,7 @@ layout: default
       </a>
     {% endif %}
     {% if social.name == "Weibo" and social.share == true %}
-      <a href="//service.weibo.com/share/share.php?text=&url="http://www.baidu.com"&via={{social.username}}"
-        onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
-        <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
-      </a>
+      <a href=”javascript:(function(){window.open(‘http://v.t.sina.com.cn/share/share.php?title=’+encodeURIComponent(document.title)+’&url=’+encodeURIComponent(location.href)+’&source=bookmark’,'_blank’,'width=450,height=400′);})()” title=”新浪微博分享”><img src=”http://t.sina.com.cn/favicon.ico”  alt=”新浪微博分享” border=”0〃>分享到新浪微博</a>
     {% endif %}
  
     {% if social.name == "QQ" %}
