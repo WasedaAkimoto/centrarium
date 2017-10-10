@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <font face="德彪钢笔行书字库">"日本の暮らす日"</font>
+title:  <font face="德彪钢笔行书字库">"Dairy日本の暮らす日"</font>
 date:   2016-09-20 10:16:59
 author: 秋本悠月
 categories: Photography
