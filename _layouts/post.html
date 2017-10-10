@@ -2,6 +2,11 @@
 layout: default
 ---
 
+<html xmlns:wb="http://open.weibo.com/wb">
+
+<head>
+<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+</head>
 
 
 <div class="post">
@@ -102,11 +107,8 @@ layout: default
       </a>
     {% endif %}
     {% if social.name == "Weibo" and social.share == true %}
-      <a href="//v.t.sina.com.cn/share/share.php?appkey=712192357&url={ full_url }"
-        onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
 
-              <i class="fa fa-{{ social.icon }}"></i>
-      </a>
+    <wb:share-button appkey="712192357" addition="simple" type="button" ralateUid="3592131742" default_text="欢迎分享啊hh"></wb:share-button>
     {% endif %}
 
   {% endfor %}
