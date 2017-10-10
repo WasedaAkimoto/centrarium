@@ -3,9 +3,6 @@ layout: default
 ---
 <div class="post">
 
-<html xmlns:wb="http://open.weibo.com/wb">
-<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
-
 <div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if page.cover %}has-cover{% endif %}">
     <header class="post-header">
@@ -77,9 +74,10 @@ layout: default
       </a>
     {% endif %}
     {% if social.name == "Weibo" and social.share == true %}
-      
-    <wb:share-button addition="simple" type="button" ralateUid="3592131742"></wb:share-button>
-
+      <a href="//service.weibo.com/share/share.php?text={{ page.title | cgi_escape }}&url={{ full_url | cgi_escape}}&via={{social.username}}"
+        onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
+        <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
+      </a>
     {% endif %}
  
     {% if social.name == "QQ" %}

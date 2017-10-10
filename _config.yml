@@ -115,7 +115,7 @@ social:
     share: false
 
   - name: Weibo
-    icon: qq
+    icon: weibo
     username: 秋本明AkimotoAkila
     url: http://weibo.com/3592131742/profile?rightmod=1&wvr=6&mod=personinfo
     desc: Follow me on Weibo
