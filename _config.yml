@@ -152,10 +152,10 @@ social:
 
   - name: Steam
     icon: steam
-    username:
-    url:
+    username: 秋本明
+    url: http://steamcommunity.com/profiles/76561198304245004
     desc: Friend me on Steam
-    share: false
+    share: true
 
   - name: Dribbble
     icon: dribbble
@@ -183,7 +183,7 @@ social:
     username:
     url:
     desc: Share to Reddit
-    share: false
+    share: true
 
   - name: "Hacker News"
     icon: hacker-news
