@@ -108,7 +108,7 @@ layout: default
       </a>
     {% endif %}
     {% if social.name == "Weibo" and social.share == true %}
-      <a href="//v.t.sina.com.cn/share/share.php" onclick="window.location = '//v.t.sina.com.cn/share/share.php?appkey=712192357&u=' + encodeURIComponent('{{ full_url }}') + '&t={{page.title}}'; return false">
+      <a href="//v.t.sina.com.cn/share/share.php" onclick="window.location = '//v.t.sina.com.cn/share/share.php?u=' + encodeURIComponent('{{ full_url }}') + '&t={{page.title}}'; return false">
       <i class="fa fa-{{ social.icon }}"></i> 
       </a>
     {% endif %}
