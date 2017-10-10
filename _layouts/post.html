@@ -2,16 +2,11 @@
 layout: default
 ---
 
-<html xmlns:wb="http://open.weibo.com/wb">
+
 
 <div class="post">
 
 
-<head>
-<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
-</head>
-
-<body>
 <div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if page.cover %}has-cover{% endif %}">
     <header class="post-header">
@@ -107,7 +102,11 @@ layout: default
       </a>
     {% endif %}
     {% if social.name == "Weibo" and social.share == true %}
-      <wb:share-button appkey="712192357" addition="simple" type="button" ralateUid="3592131742"></wb:share-button>
+      <a href="//v.t.sina.com.cn/share/share.php?appkey=712192357&url={{ full_url | cgi_escape}}"
+        onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
+
+              <i class="fa fa-{{ social.icon }}"></i>
+      </a>
     {% endif %}
 
   {% endfor %}
@@ -167,11 +166,8 @@ layout: default
 
 </div>
 
-</body>
-
-
 </div>
-</html>
+
 
 
 
