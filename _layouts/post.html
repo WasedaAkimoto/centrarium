@@ -74,7 +74,7 @@ layout: default
       </a>
     {% endif %}
     {% if social.name == "Weibo" and social.share == true %}
-      <a href="//service.weibo.com/share/share.php?text=1&url=1&via={{social.username}}"
+      <a href="//service.weibo.com/share/share.php?text=&url=full_url&via={{social.username}}"
         onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
         <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
       </a>
