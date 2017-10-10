@@ -93,7 +93,8 @@ layout: default
     {% if social.name == "QQZone" and social.share == true %}
       <a href="//sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?mini=true&url={{ full_url | cgi_escape}}"
         onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
-        <i class="fa fa-{{ social.icon | remove_first: '-square' }}-square fa-lg"></i>
+
+              <i class="fa fa-{{ social.icon }}"></i>
       </a>
     {% endif %}
     {% if social.name == "Weibo" and social.share == true %}
