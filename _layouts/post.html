@@ -98,7 +98,7 @@ layout: default
       </a>
     {% endif %}
     {% if social.name == "Weibo" and social.share == true %}
-      <a href="//v.t.sina.com.cn/share/share.php?mini=true&url={{ full_url | cgi_escape}}"
+      <a href="//tjs.sjs.sinajs.cn/open/api/js/wb.js?mini=true&url={{ full_url | cgi_escape}}"
         onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
       
               <i class="fa fa-{{ social.icon }}"></i>
