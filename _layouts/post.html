@@ -47,6 +47,11 @@ layout: default
 
 <section class="share">
   <span>Share: </span>
+
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/button.js#uuid=&style=-1"></script>
+
+<script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/addons/bshareMM.js#shareClass=BSHARE_IMAGE_ALL"> </script>
+
   {% for social in site.social %}
     {% capture full_url %}{{ site.url }}{{ site.baseurl }}{{ page.url }}{% endcapture %}
     {% if social.name == "QQZone" and social.share == true %}
