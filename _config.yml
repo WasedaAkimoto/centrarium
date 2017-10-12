@@ -63,6 +63,9 @@ descriptions:
   - cat: Gourment
     desc: "The enjoyments of your tongue."
 
+  - cat: Academia
+    desc: "Scientific Research."
+
 commentsystem:    comment.moe
 # Social icons and sharing options
 #
