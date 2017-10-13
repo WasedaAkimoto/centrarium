@@ -235,22 +235,45 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 # <b><font face="segoe script" color="blue" size="2">Algorithm Efficiency and Solution Quality</font></b>
 
+![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%8715.png)
+<div class="divcss5">
+<p><font size="1">The difference between the number of original and reduced edges.</font></p>
+</div>
+
+![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%8716.png)
+<div class="divcss5">
+<p><font size="1">Results compared with the integer TSV assignment.</font>
+<p>Pc: monotonically decreasing function of the capacity of edge
+<p>Pr: monotonically increasing function of the radius r</p>
+</div>
+
+    ML: Simple Multi-Level
+    MF: Mixed Flow
+    PF: Penalty Function
+    FG: Min-Cost Flow
+
+--------
+
+# <b><font face="segoe script"><font color="blue">Conclusion</font></font></b>
+
+# <b><font face="segoe script" color="blue" size="2">Algorithms Contribution</font></b>
+
+* An efficient multi-level algorithm for 3D-IC TSV assignment which greatly reduced the number of edges in the IMCMC network
+* A mixed single and multi commodity method to improve the solution optimality.
+
+# <b><font face="segoe script" color="blue" size="2">For Application</font></b>
+
+* Achieving 37X speedup
+* Reducing the total wire length by 7.0%.
 
 
 
 
 
-
-
-
-
-
-     
-
-
-
-
-
+-------
+The original link of the thesis:</br>
+<a href="http://ieeexplore.ieee.org/document/7604740/">"An Efficient Multi-Level Algorithm for 3D-IC TSV Assignment"</a>
+# Centrarium [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://circleci.com/gh/bencentra/centrarium/tree/master)
 
 
 
