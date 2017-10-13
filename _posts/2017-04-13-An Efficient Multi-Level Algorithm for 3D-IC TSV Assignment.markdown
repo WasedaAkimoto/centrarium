@@ -13,7 +13,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 </style>
 
 
-<h2 id="Index"><font face="segoe script"><font color="blue"><b>Index</b></font></font></h>
+<h2 id="Index"><font face="segoe script"><font color="blue"><b>Index</b></font></font></h2>
 
 * <a href="#Background Introduction">Background Introduction</a>
 * <a href="#Problem formulation">Problem formulation</a>
@@ -26,7 +26,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 ------
 
-<h2 id="Background Introduction"><b><font face="segoe script"><font color="blue">Background Introduction</font></font></b></h>
+<h2 id="Background Introduction"><b><font face="segoe script"><font color="blue">Background Introduction</font></font></b></h2>
 ## <b><font face="segoe script" color="blue" size="2">3D-IC</font></b>
 * Advantage:
 
@@ -45,7 +45,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <a href="#Index">Click here to return to the Index</a>
 -------
 
-<h2 id="Problem Formulation"><font face="segoe script"><font color="blue">Problem Formulation</font></font></b></h>
+<h2 id="Problem Formulation"><font face="segoe script"><font color="blue">Problem Formulation</font></font></b></h2>
 
 ## <b><font face="segoe script" color="blue" size="2"> What is TSV Assignement problem?</font></b>
 
@@ -80,7 +80,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <a href="#Index">Click here to return to the Index</a>
 -------
 
-<h2 id="Previous Work"><b><font face="segoe script"><font color="blue">Previous Work</font></font></b></h>
+<h2 id="Previous Work"><b><font face="segoe script"><font color="blue">Previous Work</font></font></b></h2>
 
 ## <b><font face="segoe script" color="blue" size="2"> Existed Problems</font></b>
 * High complexity of a complete IMCMC network.
@@ -93,7 +93,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <a href="#Index">Click here to return to the Index</a>
 --------
 
-<h2 id="Contribution"><b><font face="segoe script"><font color="blue">Contribution in the Thesis</font></font></b></h>
+<h2 id="Contribution"><b><font face="segoe script"><font color="blue">Contribution in the Thesis</font></font></b></h2>
 
 * We group adjacent vertices together level by level to build smaller networks, and send rough flows between the coarsened vertices.
 * 
@@ -113,7 +113,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 ------
 
-<h2 id="Terminologies and Theories"><b><font face="segoe script"><font color="blue">Terminologies and Theories</font></font></b></h>
+<h2 id="Terminologies and Theories"><b><font face="segoe script"><font color="blue">Terminologies and Theories</font></font></b></h2>
 
 ## <b><font face="segoe script" color="blue" size="2">Multi-Level TSV Assignment</font></b>
 
@@ -243,7 +243,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 ------
 
-<h2 id="Experimental Results"><b><font face="segoe script"><font color="blue">Experimental Results</font></font></b>/h>
+<h2 id="Experimental Results"><b><font face="segoe script"><font color="blue">Experimental Results</font></font></b>/h2>
 
 ## <b><font face="segoe script" color="blue" size="2">Algorithm Efficiency and Solution Quality</font></b>
 
@@ -285,7 +285,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 
 -------
-<h2 id="The original link of the thesis">The original link of the thesis:</h>
+<h2 id="The original link of the thesis">The original link of the thesis:</h2>
 
 <a href="http://ieeexplore.ieee.org/document/7604740/"><font size="4"><b>"An Efficient Multi-Level Algorithm for 3D-IC TSV Assignment"</b></font></a>
 
