@@ -89,12 +89,14 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 # <b><font face="segoe script"><font color="blue">Contribution in the Thesis</font></font></b>
 
 * We group adjacent vertices together level by level to build smaller networks, and send rough flows between the coarsened vertices.
+* 
 ![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%873.png)
 <div class="divcss5">
 <p><font size="1">Flows are sent roughly on grouped vertices.</font></p>
 </div>
 
 * The edges on which rough flows are sent are regarded as promising, and are generated when the coarsened vertices are un-coarsened.
+* 
 ![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%874.png)
 <div class="divcss5">
 <p><font size="1">Only promising edges are generated.</font></p>
@@ -104,6 +106,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 # <b><font face="segoe script"><font color="blue">Algorithms</font></font></b>
 
 ## <b><font face="segoe script" color="blue" size="2">Multi-Level TSV Assignment</font></b>
+
 ![](http://oxpem0aij.bkt.clouddn.com/1.JPG)
 
      1. Build coarsened grids of multiple levels
@@ -112,6 +115,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 
 * 1. Grid Coarsening and Source Grouping
+* 
 ![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%875.png)
 
     The grid coarsening is performed level by level, the source pins are grouped
@@ -157,6 +161,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <div class="divcss5">
 <p>When the generated edges are insufficient, we're to use this method. </p>
 </div>
+
 ![](http://oxpem0aij.bkt.clouddn.com/GIF.gif)
 <div class="divcss5">
 <p><font size="1">The included grids with r = 1 and r = 2, and edges are also generated for these grids. 
@@ -224,6 +229,11 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <div class="divcss5">
 <p>There’s a principle to judge whether nets are optimally assigned. The total wire length from s to t equals to the half parameter of the bounding box.</p>
 </div>
+------
+
+# <b><font face="segoe script"><font color="blue">Experimental Results</font></font></b>
+
+# <b><font face="segoe script" color="blue" size="2">Algorithm Efficiency and Solution Quality</font></b>
 
 
 
