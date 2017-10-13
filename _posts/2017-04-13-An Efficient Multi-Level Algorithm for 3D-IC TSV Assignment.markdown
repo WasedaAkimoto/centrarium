@@ -273,10 +273,9 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 
 -------
+# The original link of the thesis:[![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](http://ieeexplore.ieee.org/document/7604740/)
 
-The original link of the thesis:
-
-# <a href="http://ieeexplore.ieee.org/document/7604740/"><font size="4"><b>"An Efficient Multi-Level Algorithm for 3D-IC TSV Assignment"</b></font>[![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](http://ieeexplore.ieee.org/document/7604740/)</a>
+<a href="http://ieeexplore.ieee.org/document/7604740/"><font size="4"><b>"An Efficient Multi-Level Algorithm for 3D-IC TSV Assignment"</b></font></a>
 
 
 
