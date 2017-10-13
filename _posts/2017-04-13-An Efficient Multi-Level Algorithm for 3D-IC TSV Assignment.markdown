@@ -244,8 +244,8 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 ![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%8716.png)
 <div class="divcss5">
-<p><font size="1">Results compared with the integer TSV assignment.</font>
-<p>Pc: monotonically decreasing function of the capacity of edge
+<p><font size="1">Results compared with the integer TSV assignment.</font></p>
+<p>Pc: monotonically decreasing function of the capacity of edge</p>
 <p>Pr: monotonically increasing function of the radius r</p>
 </div>
 
