@@ -14,6 +14,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 
 <h2 id="Index"><font face="segoe script"><font color="blue"><b>Index</b></font></font></h>
+
 * <a href="#Background Introduction">Background Introduction</a>
 * <a href="#Problem formulation">Problem formulation</a>
 * <a href="#Previous Work">Previous Work</a>
