@@ -16,7 +16,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <h2 id="Index"><font face="segoe script"><font color="blue"><b>Index</b></font></font></h2>
 
 * <a href="#Background Introduction">Background Introduction</a>
-* <a href="#Problem formulation">Problem formulation</a>
+* <a href="#Problem Formulation">Problem Formulation</a>
 * <a href="#Previous Work">Previous Work</a>
 * <a href="#Contributions">Contributions</a>
 * <a href="#Terminologies and Theories">Terminologies and Theories</a>
@@ -93,7 +93,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <a href="#Index">Click here to return to the Index</a>
 --------
 
-<h2 id="Contribution"><b><font face="segoe script"><font color="blue">Contribution in the Thesis</font></font></b></h2>
+<h2 id="Contributions"><b><font face="segoe script"><font color="blue">Contribution in the Thesis</font></font></b></h2>
 
 * We group adjacent vertices together level by level to build smaller networks, and send rough flows between the coarsened vertices.
 * 
@@ -243,7 +243,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 ------
 
-<h2 id="Experimental Results"><b><font face="segoe script"><font color="blue">Experimental Results</font></font></b>/h2>
+<h2 id="Experimental Results"><b><font face="segoe script"><font color="blue">Experimental Results</font></font></b></h2>
 
 ## <b><font face="segoe script" color="blue" size="2">Algorithm Efficiency and Solution Quality</font></b>
 
