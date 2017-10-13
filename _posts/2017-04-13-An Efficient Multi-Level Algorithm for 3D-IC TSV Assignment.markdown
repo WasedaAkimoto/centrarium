@@ -151,6 +151,81 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <p>Similar to last step, un-coarsen for one level and generate edges for effective grids. </p>
 </div>
 
+## <b><font face="segoe script" color="blue" size="2">Grid Extension</font></b> 
+
+![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%879.png)
+<div class="divcss5">
+<p>When the generated edges are insufficient, we're to use this method. </p>
+</div>
+![](http://oxpem0aij.bkt.clouddn.com/GIF.gif)
+<div class="divcss5">
+<p><font size="1">The included grids with r = 1 and r = 2, and edges are also generated for these grids. 
+</font></p>
+</div>
+
+## <b><font face="segoe script" color="blue" size="2">Mixed Single and Multi Commodity Flow</font></b>
+
+![](http://oxpem0aij.bkt.clouddn.com/2.JPG)
+
+
+    1. Build coarsened grids of multiple levels.
+    2. Steps are executed by turns on each level of graphs composed of coarsened grids.
+
+* 1. Mixed Flow on Source Group
+
+![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%872.jpg)
+<div class="divcss5">
+<p><font size="1">Split edges from e1 to e6.</font></p>
+</div>
+
+    (a)Vertices are replaced by edges.
+    (b)Assign the net through residual edges.
+    (c)Update the flow.
+
+<div class="divcss5">
+<p>In order to avoid TSV congestions, we take grid capacities into consideration  so that we use flow networks module.</p>
+<p>Grids are replaced by a pair of vertices with a directed edge, called split edge.</p>
+<p>Flows from grp1 to t1 and t2 have been found. We find an augmenting path from s3 on the residual network of grp1.</p>
+<p>In this step, flows are assigned net by net by successive shortest path. The purpose is to first ensure a feasible assignment for each net, and then minimize the total wire length.</p>
+</div>
+
+
+
+* 2.Single Commodity Min-Cost Flow
+
+![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%8712.png)
+<div class="divcss5">
+<p><font size="1">Min-cost flow algorithm being applied on grid vertex g1.</font></p>
+</div>
+
+    (a) Initial flow assignment.
+    (b) Shortest path from g1 to t2.
+    (c) Augmenting path from g1 to t1 through residual path.
+    (d)Update flow.
+
+<div class="divcss5">
+<p>We first get a shortest path from g1 to t2, and then try to find an augmenting path is found from g1 to t1 on the residual network.</p>
+<p>Update the flow assignment, the net is optimally assigned.</p>
+<p>In this stage, an optimization of already assigned flows is applied on grid vertices to minimize total wire length only.</p>
+</div>
+
+## <b><font face="segoe script" color="blue" size="2">Optimally Assigned Nets</font></b>
+
+![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%8713.png)
+<div class="divcss5">
+<p><font size="1">Un-Optimally</font></p>
+</div>
+
+![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%8714.png)
+<div class="divcss5">
+<p><font size="1">Optimally</font></p>
+</div>
+
+<div class="divcss5">
+<p>There’s a principle to judge whether nets are optimally assigned. The total wire length from s to t equals to the half parameter of the bounding box.</p>
+</div>
+
+
 
 
 
