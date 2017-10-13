@@ -13,7 +13,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 </style>
 
 
-# <font face="segoe script"><font color="blue"><b>Index</b></font></font>
+<h2 id="Index"><font face="segoe script"><font color="blue"><b>Index</b></font></font></h>
 * <a href="#Background Introduction">Background Introduction</a>
 * <a href="#Problem formulation">Problem formulation</a>
 * <a href="#Previous Work">Previous Work</a>
@@ -21,10 +21,11 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 * <a href="#Terminologies and Theories">Terminologies and Theories</a>
 * <a href="#Experimental Results">Experimental Results</a>
 * <a href="#Conclusions">Conclusions</a>
+* <a href="#The original link of the thesis">The original link of the thesis</a>
 
 ------
 
-# <b><font face="segoe script"><font color="blue">Background Introduction</font></font></b>
+<h2 id="Background Introduction"><b><font face="segoe script"><font color="blue">Background Introduction</font></font></b></h>
 ## <b><font face="segoe script" color="blue" size="2">3D-IC</font></b>
 * Advantage:
 
@@ -40,9 +41,10 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <p><font size="1">The structure of 3D-IC with TSVs.It shows the connections inner-dies and inter-dies.</font></p>
 </div>
 
+<a href="#Index">Click here to return to the Index</a>
 -------
 
-# <b><font face="segoe script"><font color="blue">Problem Formulation</font></font></b>
+<h2 id="Problem Formulation"><font face="segoe script"><font color="blue">Problem Formulation</font></font></b></h>
 
 ## <b><font face="segoe script" color="blue" size="2"> What is TSV Assignement problem?</font></b>
 
@@ -74,9 +76,10 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
     To find a TSV assignment for each net &#951;_i=(s_i,t_i) to minimize the total wire length.
 
+<a href="#Index">Click here to return to the Index</a>
 -------
 
-# <b><font face="segoe script"><font color="blue">Previos Work</font></font></b>
+<h2 id="Previous Work"><b><font face="segoe script"><font color="blue">Previous Work</font></font></b></h>
 
 ## <b><font face="segoe script" color="blue" size="2"> Existed Problems</font></b>
 * High complexity of a complete IMCMC network.
@@ -86,9 +89,10 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 * Lack of efficiency of optimization.
     Runtime is very time consuming.
 
+<a href="#Index">Click here to return to the Index</a>
 --------
 
-# <b><font face="segoe script"><font color="blue">Contribution in the Thesis</font></font></b>
+<h2 id="Contribution"><b><font face="segoe script"><font color="blue">Contribution in the Thesis</font></font></b></h>
 
 * We group adjacent vertices together level by level to build smaller networks, and send rough flows between the coarsened vertices.
 * 
@@ -103,9 +107,12 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <div class="divcss5">
 <p><font size="1">Only promising edges are generated.</font></p>
 </div>
+
+<a href="#Index">Click here to return to the Index</a>
+
 ------
 
-# <b><font face="segoe script"><font color="blue">Algorithms</font></font></b>
+<h2 id="Terminologies and Theories"><b><font face="segoe script"><font color="blue">Terminologies and Theories</font></font></b></h>
 
 ## <b><font face="segoe script" color="blue" size="2">Multi-Level TSV Assignment</font></b>
 
@@ -231,11 +238,13 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <p>There’s a principle to judge whether nets are optimally assigned. The total wire length from s to t equals to the half parameter of the bounding box.</p>
 </div>
 
+<a href="#Index">Click here to return to the Index</a>
+
 ------
 
-# <b><font face="segoe script"><font color="blue">Experimental Results</font></font></b>
+<h2 id="Experimental Results"><b><font face="segoe script"><font color="blue">Experimental Results</font></font></b>/h>
 
-# <b><font face="segoe script" color="blue" size="2">Algorithm Efficiency and Solution Quality</font></b>
+## <b><font face="segoe script" color="blue" size="2">Algorithm Efficiency and Solution Quality</font></b>
 
 ![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%8715.png)
 <div class="divcss5">
@@ -254,30 +263,32 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
     PF: Penalty Function
     FG: Min-Cost Flow
 
+<a href="#Index">Click here to return to the Index</a>
+
 --------
 
 <h2 id="Conclusions"><b><font face="segoe script"><font color="blue">Conclusions</font></font></b></h2>
 
-# <b><font face="segoe script" color="blue" size="2">Algorithms Contribution</font></b>
+## <b><font face="segoe script" color="blue" size="2">Algorithms Contribution</font></b>
 
 * An efficient multi-level algorithm for 3D-IC TSV assignment which greatly reduced the number of edges in the IMCMC network
 * A mixed single and multi commodity method to improve the solution optimality.
 
-# <b><font face="segoe script" color="blue" size="2">For Application</font></b>
+## <b><font face="segoe script" color="blue" size="2">For Application</font></b>
 
 * Achieving 37X speedup
 * Reducing the total wire length by 7.0%.
 
-
+<a href="#Index">Click here to return to the Index</a>
 
 
 
 -------
-# The original link of the thesis:
+<h2 id="The original link of the thesis">The original link of the thesis:</h>
 
 <a href="http://ieeexplore.ieee.org/document/7604740/"><font size="4"><b>"An Efficient Multi-Level Algorithm for 3D-IC TSV Assignment"</b></font></a>
 
-
+<a href="#Index">Click here to return to the Index</a>
 
 
 
