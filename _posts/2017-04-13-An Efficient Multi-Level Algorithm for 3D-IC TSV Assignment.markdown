@@ -39,6 +39,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <div class="divcss5">
 <p><font size="1">The structure of 3D-IC with TSVs.It shows the connections inner-dies and inter-dies.</font></p>
 </div>
+
 -------
 
 # <b><font face="segoe script"><font color="blue">Problem Formulation</font></font></b>
@@ -84,6 +85,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
     Once a flow is assigned for a commodity, it is fixed and cannot be updated.
 * Lack of efficiency of optimization.
     Runtime is very time consuming.
+
 --------
 
 # <b><font face="segoe script"><font color="blue">Contribution in the Thesis</font></font></b>
@@ -96,7 +98,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 </div>
 
 * The edges on which rough flows are sent are regarded as promising, and are generated when the coarsened vertices are un-coarsened.
-* 
+ 
 ![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%874.png)
 <div class="divcss5">
 <p><font size="1">Only promising edges are generated.</font></p>
@@ -115,7 +117,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 
 * 1. Grid Coarsening and Source Grouping
-* 
+ 
 ![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%875.png)
 
     The grid coarsening is performed level by level, the source pins are grouped
@@ -229,6 +231,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <div class="divcss5">
 <p>There’s a principle to judge whether nets are optimally assigned. The total wire length from s to t equals to the half parameter of the bounding box.</p>
 </div>
+
 ------
 
 # <b><font face="segoe script"><font color="blue">Experimental Results</font></font></b>
@@ -271,6 +274,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 
 -------
+
 The original link of the thesis:</br>
 <a href="http://ieeexplore.ieee.org/document/7604740/">"An Efficient Multi-Level Algorithm for 3D-IC TSV Assignment"</a>
 # Centrarium [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://circleci.com/gh/bencentra/centrarium/tree/master)
