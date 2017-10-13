@@ -8,6 +8,7 @@ tags: motion welcome
 cover: "/assets/1.gif"
 ---
 
+<html>
 <head>  
 <META http-equiv="content-type" content="text/html; charset="UTF-8">  
 <title>Insert title here</title>  
@@ -59,4 +60,4 @@ with(document)0[
 
 <script src="//comment.moe/dest/static/js/build.js" charset="UTF-8"></script>
 
-
+</html>
