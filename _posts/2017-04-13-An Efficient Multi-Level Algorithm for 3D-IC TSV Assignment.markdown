@@ -20,7 +20,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 * Contributions
 * Terminologies and Theories
 * Experimental Results
-* Conclusions
+* <a href="#top">Conclusions</a>
 
 ------
 
@@ -256,7 +256,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 --------
 
-# <b><font face="segoe script"><font color="blue">Conclusion</font></font></b>
+# <h2 id="top"><b><font face="segoe script"><font color="blue">Conclusion</font></font></b></h2>
 
 # <b><font face="segoe script" color="blue" size="2">Algorithms Contribution</font></b>
 

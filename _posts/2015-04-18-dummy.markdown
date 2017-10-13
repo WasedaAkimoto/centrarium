@@ -8,13 +8,15 @@ tags: motion welcome
 cover: "/assets/1.gif"
 ---
 
+
+
 Just as I refered just now, major was EE in bachelor. I'm very familiar with  the hardware design and the controlling. I'v learned all kinds of electric theories, electronic physics,electro-megnetic theory and VLSI. What's more, the participation of projects made me grasp the control system based on MCU, including chips, motors, screens and sensors, etc.
 
 I am researching LSI optimization in postgraduate period. The field involves directions such as 3D IC, low cost design, samrt home, deep learning and so on. My work is the optimize the structure and distribution of the circuit making the use of knowledge of algorithms I learned in the laboratory.
 
 When it comes to my personality, 'positive' first burst into my mind. My life creed is refusing to surrender to obstacles. I have experienced failure in the projects when I was in university, but I never gave up insisting my research. And I have been in the Students' Union for 2 years and acted on as the ministerin the 2nd year. The experience working as a group taught me a lot. I realized the importance of cooperation and how to allocate the tasks to my members. With an outgoing personality, I have a great number of friends who give the strongest support to me at anytime.
 
-
+<h4 id="introduce">介绍</h4>
 
 
 
