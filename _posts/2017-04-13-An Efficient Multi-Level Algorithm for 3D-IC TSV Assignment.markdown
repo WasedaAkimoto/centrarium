@@ -14,13 +14,13 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 
 # <font face="segoe script"><font color="blue"><b>Index</b></font></font>
-* Background Introduction
-* Problem formulation
-* Previous Work
-* Contributions
-* Terminologies and Theories
-* Experimental Results
-* <a href="#top">Conclusions</a>
+* <a href="#Background Introduction">Background Introduction</a>
+* <a href="#Problem formulation">Problem formulation</a>
+* <a href="#Previous Work">Previous Work</a>
+* <a href="#Contributions">Contributions</a>
+* <a href="#Terminologies and Theories">Terminologies and Theories</a>
+* <a href="#Experimental Results">Experimental Results</a>
+* <a href="#Conclusions">Conclusions</a>
 
 ------
 
@@ -256,7 +256,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 --------
 
-# <h2 id="top"><b><font face="segoe script"><font color="blue">Conclusion</font></font></b></h2>
+# <h2 id="Conclusions"><b><font face="segoe script"><font color="blue">Conclusions</font></font></b></h2>
 
 # <b><font face="segoe script" color="blue" size="2">Algorithms Contribution</font></b>
 
