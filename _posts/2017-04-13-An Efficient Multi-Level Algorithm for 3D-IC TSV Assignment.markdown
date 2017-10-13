@@ -128,11 +128,10 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 </div>
  
 <div class="divcss5">
-<p>[grp]  (source pins)
-<p>[grd]  (grids)
-<p>The source pins that locate in a same coarsened grid are regarded as one group of level ϵ.</font></p>
+<p>[grp]  (source pins)</p>
+<p>[grd]  (grids)</p>
+<p>The source pins that locate in a same coarsened grid are regarded as one group of level ϵ.</p>
 </div>
-
 
 * 2.Rough Flow Assignment
  
