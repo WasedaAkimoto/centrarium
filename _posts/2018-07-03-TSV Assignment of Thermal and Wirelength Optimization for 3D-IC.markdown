@@ -51,7 +51,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <a href="#Index">Click here to return to the Index</a>
 -------
 
-<h2 id="Problem Formulation"><font face="segoe script"><font color="blue">Problem Formulation</font></font></b></h2>
+<h2 id="Problem Formulation"><b><font face="segoe script"><font color="blue">Problem Formulation</font></font></b></h2>
 
 ## <b><font face="segoe script" color="blue" size="2"> What is TSV Assignement problem?</font></b>
 
@@ -83,45 +83,23 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
     To find a TSV assignment for each net &#951;_i=(s_i,t_i) to minimize the total wire length.
 
-<a href="#Index">Click here to return to the Index</a>
--------
-
-<h2 id="Previous Work"><b><font face="segoe script"><font color="blue">Previous Work</font></font></b></h2>
-
-## <b><font face="segoe script" color="blue" size="2"> Existed Problems</font></b>
-* High complexity of a complete IMCMC network.
-    The algorithm is not able to handle more grids for a testbench, which degrades the accuracy of TSV assignment.
-* NP-completeness of the integer multi-commodity problem.
-    Once a flow is assigned for a commodity, it is fixed and cannot be updated.
-* Lack of efficiency of optimization.
-    Runtime is very time consuming.
-
-<a href="#Index">Click here to return to the Index</a>
---------
-
-<h2 id="Contributions"><b><font face="segoe script"><font color="blue">Contribution in the Thesis</font></font></b></h2>
+## <b><font face="segoe script" color="blue" size="2"> Coarsening and Un-coarsening Algorithm</font></b>
 
 * We group adjacent vertices together level by level to build smaller networks, and send rough flows between the coarsened vertices.
 * 
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%873.png)
+![](http://pba9e7hoh.bkt.clouddn.com/t1.JPG)
 <div class="divcss5">
 <p><font size="1">Flows are sent roughly on grouped vertices.</font></p>
 </div>
 
 * The edges on which rough flows are sent are regarded as promising, and are generated when the coarsened vertices are un-coarsened.
  
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%874.png)
+![](http://pba9e7hoh.bkt.clouddn.com/t2.JPG)
 <div class="divcss5">
 <p><font size="1">Only promising edges are generated.</font></p>
 </div>
 
-<a href="#Index">Click here to return to the Index</a>
-
-------
-
-<h2 id="Terminologies and Theories"><b><font face="segoe script"><font color="blue">Terminologies and Theories</font></font></b></h2>
-
-## <b><font face="segoe script" color="blue" size="2">Multi-Level TSV Assignment</font></b>
+## <b><font face="segoe script" color="blue" size="2"> Multi-Level TSV Assignment</font></b>
 
 ![](http://oxpem0aij.bkt.clouddn.com/1.JPG)
 
@@ -132,11 +110,11 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 * 1. Grid Coarsening and Source Grouping
  
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%875.png)
+![](http://pba9e7hoh.bkt.clouddn.com/t3.JPG)
 
     The grid coarsening is performed level by level, the source pins are grouped
 
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%876.png)
+![](http://pba9e7hoh.bkt.clouddn.com/t4.JPG)
 <div class="divcss5">
 <p><font size="1">Chips and dies are divided into grids.Coarsened grid of level ε(ε>0).</font></p>
 </div>
@@ -149,7 +127,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 * 2.Rough Flow Assignment
  
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%877.png)
+![](http://pba9e7hoh.bkt.clouddn.com/t5.JPG)
 <div class="divcss5">
 <p><font size="1">The coarsened graph of level ε with rough flow assignment.</font></p>
 </div>
@@ -160,7 +138,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 * 3.Graph Un-Coarsening
  
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%878.png)
+![](http://pba9e7hoh.bkt.clouddn.com/t6.JPG)
 <div class="divcss5">
 <p><font size="1">Coarsened graph of level ε-1 with generated edges. 
 </font></p>
@@ -170,123 +148,12 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <p>Similar to last step, un-coarsen for one level and generate edges for effective grids. </p>
 </div>
 
-## <b><font face="segoe script" color="blue" size="2">Grid Extension</font></b> 
 
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%879.png)
-<div class="divcss5">
-<p>When the generated edges are insufficient, we're to use this method. </p>
-</div>
-
-![](http://oxpem0aij.bkt.clouddn.com/GIF.gif)
-<div class="divcss5">
-<p><font size="1">The included grids with r = 1 and r = 2, and edges are also generated for these grids. 
-</font></p>
-</div>
-
-## <b><font face="segoe script" color="blue" size="2">Mixed Single and Multi Commodity Flow</font></b>
-
-![](http://oxpem0aij.bkt.clouddn.com/2.JPG)
-
-
-    1. Build coarsened grids of multiple levels.
-    2. Steps are executed by turns on each level of graphs composed of coarsened grids.
-
-* 1. Mixed Flow on Source Group
-
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%872.jpg)
-<div class="divcss5">
-<p><font size="1">Split edges from e1 to e6.</font></p>
-</div>
-
-    (a)Vertices are replaced by edges.
-    (b)Assign the net through residual edges.
-    (c)Update the flow.
-
-<div class="divcss5">
-<p>In order to avoid TSV congestions, we take grid capacities into consideration  so that we use flow networks module.</p>
-<p>Grids are replaced by a pair of vertices with a directed edge, called split edge.</p>
-<p>Flows from grp1 to t1 and t2 have been found. We find an augmenting path from s3 on the residual network of grp1.</p>
-<p>In this step, flows are assigned net by net by successive shortest path. The purpose is to first ensure a feasible assignment for each net, and then minimize the total wire length.</p>
-</div>
-
-
-
-* 2.Single Commodity Min-Cost Flow
-
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%8712.png)
-<div class="divcss5">
-<p><font size="1">Min-cost flow algorithm being applied on grid vertex g1.</font></p>
-</div>
-
-    (a) Initial flow assignment.
-    (b) Shortest path from g1 to t2.
-    (c) Augmenting path from g1 to t1 through residual path.
-    (d)Update flow.
-
-<div class="divcss5">
-<p>We first get a shortest path from g1 to t2, and then try to find an augmenting path is found from g1 to t1 on the residual network.</p>
-<p>Update the flow assignment, the net is optimally assigned.</p>
-<p>In this stage, an optimization of already assigned flows is applied on grid vertices to minimize total wire length only.</p>
-</div>
-
-## <b><font face="segoe script" color="blue" size="2">Optimally Assigned Nets</font></b>
-
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%8713.png)
-<div class="divcss5">
-<p><font size="1">Un-Optimally</font></p>
-</div>
-
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%8714.png)
-<div class="divcss5">
-<p><font size="1">Optimally</font></p>
-</div>
-
-<div class="divcss5">
-<p>There’s a principle to judge whether nets are optimally assigned. The total wire length from s to t equals to the half parameter of the bounding box.</p>
-</div>
 
 <a href="#Index">Click here to return to the Index</a>
+-------
 
-------
 
-<h2 id="Experimental Results"><b><font face="segoe script"><font color="blue">Experimental Results</font></font></b></h2>
-
-## <b><font face="segoe script" color="blue" size="2">Algorithm Efficiency and Solution Quality</font></b>
-
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%8715.png)
-<div class="divcss5">
-<p><font size="1">The difference between the number of original and reduced edges.</font></p>
-</div>
-
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%8716.png)
-<div class="divcss5">
-<p><font size="1">Results compared with the integer TSV assignment.</font></p>
-<p>Pc: monotonically decreasing function of the capacity of edge</p>
-<p>Pr: monotonically increasing function of the radius r</p>
-</div>
-
-    ML: Simple Multi-Level
-    MF: Mixed Flow
-    PF: Penalty Function
-    FG: Min-Cost Flow
-
-<a href="#Index">Click here to return to the Index</a>
-
---------
-
-<h2 id="Conclusions"><b><font face="segoe script"><font color="blue">Conclusions</font></font></b></h2>
-
-## <b><font face="segoe script" color="blue" size="2">Algorithms Contribution</font></b>
-
-* An efficient multi-level algorithm for 3D-IC TSV assignment which greatly reduced the number of edges in the IMCMC network
-* A mixed single and multi commodity method to improve the solution optimality.
-
-## <b><font face="segoe script" color="blue" size="2">For Application</font></b>
-
-* Achieving 37X speedup
-* Reducing the total wire length by 7.0%.
-
-<a href="#Index">Click here to return to the Index</a>
 
 
 
