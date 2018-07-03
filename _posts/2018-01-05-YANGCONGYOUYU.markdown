@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  <font face="德彪钢笔行书字库">Recipe在日本新发现的美味料理——洋葱爆炒鱿鱼</font>
+title:  Recipe在日本新发现的美味料理——洋葱爆炒鱿鱼
 date:   2018-01-05 20:20:03
 author: Akimoto
-categories: Gourment
+categories: Gourmet
 tags:	CookByMyself DeliciousFood
 cover:  "/assets/meishi/cbc9d942892311e6a9a10242ac110002_800w_533h.jpg"
 ---
