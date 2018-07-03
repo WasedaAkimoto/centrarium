@@ -35,12 +35,18 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
     TSVs are essential component. It passes the silicon layer functioning inter-dies communication.
 
-    TSV could increase inter-die communication bandwidth, reduce form factor, lower power consumption of stacked multi-die systems
-
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%871.jpg)
+![](http://pba9e7hoh.bkt.clouddn.com/1-2.JPG)
 <div class="divcss5">
-<p><font size="1">The structure of 3D-IC with TSVs.It shows the connections inner-dies and inter-dies.</font></p>
+<p><font size="1">TSVs, TSV landing pads, and connections to TSV landing pads.</font></p>
 </div>
+
+   Chips with different functions pile layer by layer in the vertical directions.TSV could increase inter-die communication bandwidth, reduce form factor, lower power consumption of stacked multi-die systems.
+   
+   ![](http://pba9e7hoh.bkt.clouddn.com/1-1.jpg)
+<div class="divcss5">
+<p><font size="1">The entire 3D-IC module</font></p>
+</div>
+
 
 <a href="#Index">Click here to return to the Index</a>
 -------
