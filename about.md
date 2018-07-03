@@ -27,25 +27,40 @@ permalink: /resume/
 
 <font color="red">Major Courses:</font> Digital Circuits, Analog Circuits, Circuits Basics,Microcomputer Principle and Interface Technology, Solid Physics, Semi-conductor Physics, Opto-electronic Physics, Signal and System, Electro-Magnetic Field、Optical Theory, VLSI, Communication Theory, etc.
 
-## <b>[Waseda University]</b>, Optimization LSI, Master, 2016.9 to date.
+## <b>[Waseda University]</b>, Optimization LSI, Master, 2016.9 to 2018.9.
 
 <font color="red">Major Courses:</font> Introduction to System LSI, System LSI Design, On-Chip Memory, Low Power LSI Design, High-speed High-frequency LSI Design, LSI Automation Technologies, Video Signal Processing, Dependable LSI Systems, Opto-electronic Integrated Circuit, Optimazation Technologies, System LSI Software.
 
+<font size="60"><font color="blue"><font face="segoe script">Work Experience</font></font></font>
+---
+## <b>[Marvell Technology Group]</b>, Anologue Electronic Engineer, 2018.8 to date.
+
 <font size="60"><font color="blue"><font face="segoe script">Subject Awards</font></font></font>
 ---
-<b>SEU 8th Maze Explorer：</b> school-level honourable prize, 2015.1
+<b>SEU 8th Maze Explorer:</b> school-level honourable prize, 2015.1
 
-<b>SEU 14th Structure Innovation：</b> school-level 3rd prize, 2015.5
+<b>SEU 14th Structure Innovation:</b> school-level 3rd prize, 2015.5
 
 <b>SEU 9th Mathematical Modeling:</b> school-level honourable, 2015.5
 
 <b>SEU 2nd College Health Knowledge Competition:</b> school-level 2nd prize, 2015.6
 
-<b>SEU 18th Electronic Design：</b> school-level 1st prize, 2016.6
+<b>SEU 18th Electronic Design:</b> school-level 1st prize, 2016.6
+
+<b>Design and Research of Electric Circuits Based on Water Quality Monitor System:</b> SEU Monitor Technology Center, 2016.7-2016.8
+
+<b>SRTP（16062002):</b> Multifunctional Adjustable LED System, GOOD, 2016.5
+
+<b>TSV Assignment of Thermal and Wirelength Optimization for 3DIC:</b> LSI Optimization Lab in Waseda University,  2017.10-2018.6
+
+<font size="60"><font color="blue"><font face="segoe script">Academia</font></font></font>
+---
+<b>International Conference:</b> 28th International Symposium on Power and Timing Modeling, Optimization and Simulation(PATMOS)
+
 
 <font size="60"><font color="blue"><font face="segoe script">Internship Experience</font></font></font>
 ---
-<b>[SEU Monitor Technology Center]</b>: Design and Research of Electric Circuits Based on Water Quality Monitor System, 2016.7-2016.8
+<b>[Tunghai University]</b>: "The Promotion of Innovative Industry in Taiwan", got 1 credit, 2015.7~2015.8 
 
 <b>[Suzhou In-Situ Chip Technology Inc.]</b>: Hardware Design Engineer Assistant, 2017.8~2017.9
 
@@ -58,7 +73,10 @@ permalink: /resume/
 
 <font size="60"><font color="blue"><font face="segoe script">Certificates</font></font></font>
 ---
-CET-4, CET-6, Computer 2nd class C++
+CET-4: 556<br /> 
+CET-6: 519<br />
+TOEIC: 875<br />
+Computer 2nd class C++
 
 <font size="60"><font color="blue"><font face="segoe script">Individual Awards</font></font></font>
 ---
@@ -72,13 +90,11 @@ CET-4, CET-6, Computer 2nd class C++
 
 2016, IPS Special Scholarship of Waseda University.
 
-2015, Tunghai University 1 credit.
 
-2016, SRTP (16062002) Multifunctional Adjustable LED System, GOOD.
 
 <font size="60"><font color="blue"><font face="segoe script">Skills</font></font></font>
 ---
-EDA tools, FPGA, embedded system, css, C++ Office, Adobe series.
+EDA tools, FPGA, embedded system, css, C++, JAVA, Perl, Office, Adobe series.
 
 <font size="60"><font color="blue"><font face="segoe script">Hobbies</font></font></font>
 ---
@@ -108,3 +124,6 @@ You can find out more info about customizing your Jekyll theme, as well as basic
 [SEU Monitor Technology Center]: http://electronic.seu.edu.cn/11488/list.htm
 [Suzhou In-Situ Chip Technology Inc.]: http://www.sinoist.com.cn/
 [Suzhou Yunhuaruihe Intellectual Technology Corporation]: http://www.clouwi.com/
+[Marvell Technology Group]: https://www.marvell.com/
+[Tunghai University]: http://www.thu.edu.tw/
+[28th International Symposium on Power and Timing Modeling, Optimization and Simulation(PATMOS)]: http://patmos2018.die.upm.es/
