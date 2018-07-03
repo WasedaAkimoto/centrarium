@@ -287,7 +287,13 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 -------
 <h2 id="The original link of the thesis">The original link of the thesis:</h2>
 
-<a href="http://ieeexplore.ieee.org/document/7604740/"><font size="4"><b>"An Efficient Multi-Level Algorithm for 3D-IC TSV Assignment"</b></font></a>
+## <b><font face="segoe script" color="blue" size="2">International conference PATMOS thesis</font></b>
+
+<a href="http://pba9e7hoh.bkt.clouddn.com/conference_071817.pdf"><font size="4"><b>"TSV Assignment of Thermal and Wirelength Optimization for 3D-IC"</b></font></a>
+
+## <b><font face="segoe script" color="blue" size="2">Graduation dissertation</font></b>
+
+<a href="http://pba9e7hoh.bkt.clouddn.com/Thesis_44161555-9ZhaoYi.pdf"><font size="4"><b>"TSV Assignment of Thermal and Wirelength Optimization for 3D-IC"</b></font></a>
 
 <a href="#Index">Click here to return to the Index</a>
 
