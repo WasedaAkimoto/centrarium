@@ -259,7 +259,11 @@ In my research, the multi-level assignment will follow the following prosedure.
 
 
 ## <b><font face="segoe script" color="blue" size="2">4.Thermal Resistive Model</font></b>
+
+
 ## <b><font face="segoe script" color="blue" size="2">5.Multi-pins in a Net</font></b>
+
+
 <a href="#Index">Click here to return to the Index</a>
 -------
 
@@ -274,6 +278,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 <a href="http://pba9e7hoh.bkt.clouddn.com/Thesis_44161555-9ZhaoYi.pdf"><font size="4"><b>"TSV Assignment of Thermal and Wirelength Optimization for 3D-IC"</b></font></a>
 
 <a href="#Index">Click here to return to the Index</a>
+
 
 
 
