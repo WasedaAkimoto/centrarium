@@ -3,7 +3,7 @@ layout: post
 title:  Recipe名扬海外的中餐名菜——宫保鸡丁
 date:   2017-09-30 10:38:03
 author: Akimoto
-categories: Gourment
+categories: Gourmet
 tags:	CookByMyself DeliciousFood
 cover:  "/assets/meishi/20131221170652-1363169981.jpg"
 ---
