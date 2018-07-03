@@ -97,14 +97,14 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 * We group adjacent vertices together level by level to build smaller networks, and send rough flows between the coarsened vertices.
 * 
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%873.png)
+![](http://pba9e7hoh.bkt.clouddn.com/t1.JPG)
 <div class="divcss5">
 <p><font size="1">Flows are sent roughly on grouped vertices.</font></p>
 </div>
 
 * The edges on which rough flows are sent are regarded as promising, and are generated when the coarsened vertices are un-coarsened.
  
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%874.png)
+![](http://pba9e7hoh.bkt.clouddn.com/t2.JPG)
 <div class="divcss5">
 <p><font size="1">Only promising edges are generated.</font></p>
 </div>
@@ -126,11 +126,11 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 * 1. Grid Coarsening and Source Grouping
  
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%875.png)
+![](http://pba9e7hoh.bkt.clouddn.com/t3.JPG)
 
     The grid coarsening is performed level by level, the source pins are grouped
 
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%876.png)
+![](http://pba9e7hoh.bkt.clouddn.com/t4.JPG)
 <div class="divcss5">
 <p><font size="1">Chips and dies are divided into grids.Coarsened grid of level ε(ε>0).</font></p>
 </div>
@@ -143,7 +143,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 * 2.Rough Flow Assignment
  
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%877.png)
+![](http://pba9e7hoh.bkt.clouddn.com/t5.JPG)
 <div class="divcss5">
 <p><font size="1">The coarsened graph of level ε with rough flow assignment.</font></p>
 </div>
@@ -154,7 +154,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 * 3.Graph Un-Coarsening
  
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%878.png)
+![](http://pba9e7hoh.bkt.clouddn.com/t6.JPG)
 <div class="divcss5">
 <p><font size="1">Coarsened graph of level ε-1 with generated edges. 
 </font></p>
@@ -225,12 +225,12 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 ## <b><font face="segoe script" color="blue" size="2">Optimally Assigned Nets</font></b>
 
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%8713.png)
+![](http://pba9e7hoh.bkt.clouddn.com/t7.JPG)
 <div class="divcss5">
 <p><font size="1">Un-Optimally</font></p>
 </div>
 
-![](http://oxpem0aij.bkt.clouddn.com/%E5%9B%BE%E7%89%8714.png)
+![](http://pba9e7hoh.bkt.clouddn.com/t8.JPG)
 <div class="divcss5">
 <p><font size="1">Optimally</font></p>
 </div>
