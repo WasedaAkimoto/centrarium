@@ -104,7 +104,6 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 ![](http://oxpem0aij.bkt.clouddn.com/1.JPG)
 
      1. Build coarsened grids of multiple levels
-
      2. Run the rough flow assignment and un-coarsening, which are executed by turns on each level of graphs composed of coarsened grids.
 
 
@@ -153,9 +152,101 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <a href="#Index">Click here to return to the Index</a>
 -------
 
+<h2 id="Terminologies and Theories"><b><font face="segoe script"><font color="blue">Terminologies and Theories</font></font></b></h2>
+
+In my research, the multi-level assignment will follow the following prosedure.
+![](http://pba9e7hoh.bkt.clouddn.com/flowchart.JPG)
+<div class="divcss5">
+<p><font size="1">Algorithm flow of multilevel assignment 
+</font></p>
+</div>
+
+## <b><font face="segoe script" color="blue" size="2">Conditional Grid Extension</font></b>
+
+<div class="divcss5">
+<p>In [1], the number of effective grids during un-coarsening is usually limited, which results in the insufficient number of edges for coarsened graph.</p>
+<p>[2] proposed an unconditional grid extension that is very time consuming results from iteration in which r is a constant in all levels.</p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/t9.JPG)
+
+* Denoting the extending radius as r, the edges are generated for the effective grids in the region of radius r.
+<div class="divcss5">
+<p> Different coarsening level ε uses respective r.</p>
+
+<p> The higher the level is, the less iteration is needed.</p>
+</div>
+
+![](http://oxpem0aij.bkt.clouddn.com/GIF.gif)
+<div class="divcss5">
+<p><font size="1">The included grids with r = 1 and r = 2, and edges are also generated for these grids. 
+</font></p>
+</div>
+
+* Merits of my work
+<div class="divcss5">
+<p>I set different coefficient in each iteration to increase efficiency.</p>
+<p>Conditional r could avoid the excessive iterative processes which could save much storage and time.</p>
+</div>
+ 
+
+ 
 
 
+   
 
+## <b><font face="segoe script" color="blue" size="2">HVH Channel Routing</font></b>
+
+<div class="divcss5">
+<p>In [2] and [3], the detail of interlayer connection was ignored.
+</p>
+</div>
+
+* Merits of my work
+<div class="divcss5">
+<p>The wire width could be taken into consideration.</p>
+<p>The capacitance exists between the wires generated from the electric connection.</p>
+<p>It makes smaller congestion leading to less unnecessary routes and blocking of nets.</p></div>
+   
+
+![](http://pba9e7hoh.bkt.clouddn.com/4-1.PNG)
+<div class="divcss5">
+<p><font size="1">Metal wire orientation 
+</font></p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/4-2.PNG)
+<div class="divcss5">
+<p><font size="1">Cross Wire Orientation
+</font></p>
+</div>
+
+* Routing rule
+<div class="divcss5">
+<p>If the first layer is reserved for vertical components, the next layer is reserved for horizontal components, next is vertical, and so on.</p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/4-7.jpg)
+<div class="divcss5">
+<p><font size="1">An instance of HVH channel routing
+</font></p>
+</div>
+
+* Wirelength
+<div class="divcss5">
+<p>Wirelength could be calculated by Manhattan Distance in the bounding box composes of source and sink pin.</p>
+</div>
+![](http://pba9e7hoh.bkt.clouddn.com/t23.JPG)
+<div class="divcss5">  
+<p>Where l is the number of layer, l<sub>n</sub> is the number of layer the net passes totally, h is the height between adjacent layers and u, v are edges in the net.</p>
+</div>
+
+
+## <b><font face="segoe script" color="blue" size="2">Revision of Pin Locations </font></b>
+## <b><font face="segoe script" color="blue" size="2">Thermal Resistive Model</font></b>
+## <b><font face="segoe script" color="blue" size="2">Multi-pins in a Net</font></b>
+<a href="#Index">Click here to return to the Index</a>
+-------
 
 -------
 <h2 id="The original link of the thesis">The original link of the thesis:</h2>
