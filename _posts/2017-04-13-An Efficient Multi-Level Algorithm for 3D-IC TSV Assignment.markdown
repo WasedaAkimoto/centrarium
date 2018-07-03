@@ -45,7 +45,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 <a href="#Index">Click here to return to the Index</a>
 -------
 
-<h2 id="Problem Formulation"><font face="segoe script"><font color="blue">Problem Formulation</font></font></b></h2>
+<h2 id="Problem Formulation"><b><font face="segoe script"><font color="blue">Problem Formulation</font></font></b></h2>
 
 ## <b><font face="segoe script" color="blue" size="2"> What is TSV Assignement problem?</font></b>
 
