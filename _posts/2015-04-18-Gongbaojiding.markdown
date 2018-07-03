@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <font face="德彪钢笔行书字库">Recipe名扬海外的中餐名菜——宫保鸡丁</font>
+title:  Recipe名扬海外的中餐名菜——宫保鸡丁
 date:   2017-09-30 10:38:03
 author: Akimoto
 categories: Gourment
