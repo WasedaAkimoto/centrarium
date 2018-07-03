@@ -17,8 +17,6 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 * <a href="#Background Introduction">Background Introduction</a>
 * <a href="#Problem Formulation">Problem Formulation</a>
-* <a href="#Previous Work">Previous Work</a>
-* <a href="#Contributions">Contributions</a>
 * <a href="#Terminologies and Theories">Terminologies and Theories</a>
 * <a href="#Experimental Results">Experimental Results</a>
 * <a href="#Conclusions">Conclusions</a>
@@ -161,7 +159,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 </font></p>
 </div>
 
-## <b><font face="segoe script" color="blue" size="2">Conditional Grid Extension</font></b>
+## <b><font face="segoe script" color="blue" size="2">1.Conditional Grid Extension</font></b>
 
 <div class="divcss5">
 <p>In [1], the number of effective grids during un-coarsening is usually limited, which results in the insufficient number of edges for coarsened graph.</p>
@@ -195,7 +193,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 
    
 
-## <b><font face="segoe script" color="blue" size="2">HVH Channel Routing</font></b>
+## <b><font face="segoe script" color="blue" size="2">2.HVH Channel Routing</font></b>
 
 <div class="divcss5">
 <p>In [2] and [3], the detail of interlayer connection was ignored.
@@ -242,13 +240,29 @@ In my research, the multi-level assignment will follow the following prosedure.
 </div>
 
 
-## <b><font face="segoe script" color="blue" size="2">Revision of Pin Locations </font></b>
-## <b><font face="segoe script" color="blue" size="2">Thermal Resistive Model</font></b>
-## <b><font face="segoe script" color="blue" size="2">Multi-pins in a Net</font></b>
+## <b><font face="segoe script" color="blue" size="2">3.Revision of Pin Locations </font></b>
+
+<div class="divcss5">  
+<p>It used to assign pins and TSVs as well as calculating the wirelength based on the assumption that pins are located at the center of the grid. Error is accumulated.</p>
+</div>
+
+* I revise the location coordinates by adding the offset distance to pins.
+ 
+    d<sub>off</sub>=|node<sub>(1<sub>x</sub>)</sub>-node<sub>(2<sub>x</sub>)</sub> |+|node<sub>(1<sub>y</sub>)</sub>−node<sub>(2<sub>y</sub>)</sub> |
+
+
+* Merits of my work
+<div class="divcss5">  
+<p>Error of wirelength is eliminated.</p>
+</div>
+
+
+
+## <b><font face="segoe script" color="blue" size="2">4.Thermal Resistive Model</font></b>
+## <b><font face="segoe script" color="blue" size="2">5.Multi-pins in a Net</font></b>
 <a href="#Index">Click here to return to the Index</a>
 -------
 
--------
 <h2 id="The original link of the thesis">The original link of the thesis:</h2>
 
 ## <b><font face="segoe script" color="blue" size="2">International conference PATMOS thesis</font></b>
