@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  <font face="德彪钢笔行书字库" size="6">An Efficient Multi-Level Algorithm for 3D-IC TSV Assignment</font>
+title:  An Efficient Multi-Level Algorithm for 3D-IC TSV Assignment
 date:   2017-09-30 10:38:03
 author: Cong HAO, Member and Takeshi YOSHIMURA, Fellow
 categories: Academia
