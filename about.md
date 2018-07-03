@@ -24,6 +24,7 @@ permalink: /resume/
 ---
 <img src="/assets/原色校徽.png" >
 
+![](http://ouu5qk2pq.bkt.clouddn.com/images.png)
 
 ## <b>[Southeast University]</b>, Electronic Science and Technology, Bachelor, 2013.8 ~ 2017.6.
 <font color="red">Major Courses:</font> Digital Circuits, Analog Circuits, Circuits Basics,Microcomputer Principle and Interface Technology, Solid Physics, Semi-conductor Physics, Opto-electronic Physics, Signal and System, Electro-Magnetic Field、Optical Theory, VLSI, Communication Theory, etc.
