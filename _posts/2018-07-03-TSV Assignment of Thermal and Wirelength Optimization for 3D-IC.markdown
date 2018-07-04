@@ -166,7 +166,9 @@ In my research, the multi-level assignment will follow the following prosedure.
 </font></p>
 </div>
 
-## <h2 id="Conditional Grid Extension"><b><font face="segoe script" color="blue" size="2">1.Conditional Grid Extension</font></b><h2>
+<h3 id="Conditional Grid Extension"><b><font face="segoe script" color="blue" size="2">1.Conditional Grid Extension</font></b><h3>
+------
+
 
 <div class="divcss5">
 <p>In [1], the number of effective grids during un-coarsening is usually limited, which results in the insufficient number of edges for coarsened graph.</p>
@@ -200,7 +202,8 @@ In my research, the multi-level assignment will follow the following prosedure.
 
    
 
-## <h2 id="HVH Channel Routing"><b><font face="segoe script" color="blue" size="2">2.HVH Channel Routing</font></b><h2>
+<h3 id="HVH Channel Routing"><b><font face="segoe script" color="blue" size="2">2.HVH Channel Routing</font></b><h3>
+------
 
 <div class="divcss5">
 <p>In [2] and [3], the detail of interlayer connection was ignored.
@@ -250,7 +253,8 @@ In my research, the multi-level assignment will follow the following prosedure.
 
 <a href="#Index">Click here to return to the Index</a>
 
-## <h2 id="Grid Location Revision"><b><font face="segoe script" color="blue" size="2">3.Revision of Pin Locations </font></b><h2>
+<h3 id="Grid Location Revision"><b><font face="segoe script" color="blue" size="2">3.Revision of Pin Locations </font></b><h3>
+------
 
 <div class="divcss5">  
 <p>It used to assign pins and TSVs as well as calculating the wirelength based on the assumption that pins are located at the center of the grid. Error is accumulated.</p>
@@ -269,7 +273,8 @@ In my research, the multi-level assignment will follow the following prosedure.
 
 <a href="#Index">Click here to return to the Index</a>
 
-## <h2 id="Thermal Resistive Model"><b><font face="segoe script" color="blue" size="2">4.Thermal Resistive Model</font></b><h2>
+<h3 id="Thermal Resistive Model"><b><font face="segoe script" color="blue" size="2">4.Thermal Resistive Model</font></b><h3>
+------
 
 <div class="divcss5"> 
 <p>[4] made use of thermal model in 3D-IC and proposed some compression storage method to calculations.
@@ -379,7 +384,8 @@ In my research, the multi-level assignment will follow the following prosedure.
 
 <a href="#Index">Click here to return to the Index</a>
 
-## <h2 id="Multi-pins in a Net"><b><font face="segoe script" color="blue" size="2">5.Multi-pins in a Net</font></b><h2>
+<h3 id="Multi-pins in a Net"><b><font face="segoe script" color="blue" size="2">5.Multi-pins in a Net</font></b><h3>
+------
 
 <div class="divcss5"> 
 <p>[5] and [6] discussed different TSV assignment model. But there are still only two pins in a net.</p>
@@ -560,6 +566,16 @@ HPWL-3DBB
 
 <a href="#Index">Click here to return to the Index</a>
 ------
+
+
+[1]: https://ieeexplore.ieee.org/document/7604740/
+[2]: https://search.ieice.org/bin/summary.php?id=e100-a_3_776
+[3]: https://ieeexplore.ieee.org/document/1167513/
+[4]: https://ieeexplore.ieee.org/document/8106948/
+[5]: https://ieeexplore.ieee.org/document/6268361/
+[6]: https://dl.acm.org/citation.cfm?id=1850914
+[7]: https://ieeexplore.ieee.org/document/4358497/
+[8]: https://ieeexplore.ieee.org/document/6706671/
 
 
 
