@@ -469,7 +469,10 @@ HPWL-3DBB
 
 <h2 id="Experimental Results"><b><font face="segoe script"><font color="blue">Experimental Results</font></font></b></h2>
 
+<div class="divcss5">
 1. Experimental Environment
+</div>
+
 <div class="divcss5">
 <p>I test algorithms using C programming language on the 2.5GHz Intel(R) Core(M) workstation with 8-GB memory.</p>
 <p>- grid size: Each layer is divided into g1xg2 grids.</p>
@@ -480,7 +483,9 @@ HPWL-3DBB
 </div>
 ![](http://pba9e7hoh.bkt.clouddn.com/t16.JPG)
 
+<div class="divcss5">
 2. Evaluation of Conditional Grid Extension Algorithm
+</div>
 
 ![](http://pba9e7hoh.bkt.clouddn.com/t22.JPG)
 <div class="divcss5">
@@ -489,7 +494,9 @@ HPWL-3DBB
 <p>- Conditional grid extension could save the time cost by 30.2% on average.</p>
 </div>
 
+<div class="divcss5">
 3. With/Without HVH Structure and Location Revision
+</div>
 
 ![](http://pba9e7hoh.bkt.clouddn.com/t21.JPG)
 <div class="divcss5">
@@ -497,7 +504,9 @@ HPWL-3DBB
 <p>- Location revision step makes the results more accurate by 8% on average.</p>
 </div>
 
+<div class="divcss5">
 4. Evaluation of Temperature Distribution
+</div>
 
 ![](http://pba9e7hoh.bkt.clouddn.com/t17.JPG)
 
@@ -515,8 +524,9 @@ HPWL-3DBB
 
 ![](http://pba9e7hoh.bkt.clouddn.com/6-1new.JPG)
 
+<div class="divcss5">
 5. Comparison of MST-based and RST-based floorplan
-
+</div>
 
 ![](http://pba9e7hoh.bkt.clouddn.com/t20.JPG)
 
