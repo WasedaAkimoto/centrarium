@@ -354,7 +354,7 @@ In [[2]] and [[3]], the detail of interlayer connection was ignored.
 <div class="divcss5"> 
 3. Resistive network
 <p>- Matrix equation of one chip die</p> 
-<p>`G*V=I+<span style="text-decoration:overline;">V</span>=<span style="text-decoration:overline;">I</span>`</p>
+    G*V=I+<span style="text-decoration:overline;">V</span>=<span style="text-decoration:overline;">I</span>
 </div>
 
 ![](http://pba9e7hoh.bkt.clouddn.com/t12.JPG)
@@ -374,12 +374,12 @@ In [[2]] and [[3]], the detail of interlayer connection was ignored.
 
 <div class="divcss5"> 
 4. Effect of thermal TSV
-<p>- Overheated grids, `v &ge v<sub>th</sub>`, where v<sub>th</sub> is the value of 10% highest temperature of grids.</p>
+<p>- Overheated grids, v &ge; v<sub>th</sub>, where v<sub>th</sub> is the value of 10% highest temperature of grids.</p>
 <p>- The number of thermal TSV on each grid</p>
-<p>`ttsv<sub>num</sub>=(grid area-total area of components)/(thermal TSV area)`</p>
+    ttsv<sub>num</sub>=(grid area-total area of components)/(thermal TSV area)
 <p>Thermal TSV brings parallel thermal conductance.</p>
-<p>`g<sub>ij</sub> &rarr g<sub>ij</sub>+g<sub>TSV</sub>*ttsv<sub>num</sub>`</p>
-<p>Get the new `V={v<sub>1</sub>,v<sub>2</sub>...v<sub>n</sub>}` by calculating the matrix equation.</p>
+    g<sub>ij</sub> &rarr g<sub>ij</sub>+g<sub>TSV</sub>*ttsv<sub>num</sub>
+<p>Get the new V={v<sub>1</sub>,v<sub>2</sub>...v<sub>n</sub>} by calculating the matrix equation.</p>
 </div>
 
 <a href="#Index">Click here to return to the Index</a>
