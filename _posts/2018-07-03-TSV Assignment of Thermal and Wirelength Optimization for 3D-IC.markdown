@@ -18,6 +18,13 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 * <a href="#Background Introduction">Background Introduction</a>
 * <a href="#Problem Formulation">Problem Formulation</a>
 * <a href="#Terminologies and Theories">Terminologies and Theories</a>
+<div class="divcss5">
+<p>- <a href="#Conditional Grid Extension">Conditional Grid Extension</a></p>
+<p>- <a href="#HVH Channel Routing">HVH Channel Routing</a></p>
+<p>- <a href="#Grid Location Revision">Grid Location Revision</a></p>
+<p>- <a href="#Thermal Resistive Model">Thermal Resistive Model</a></p>
+<p>- <a href="#Multi-pins in a Net">Multi-pins in a Net</a></p>
+</div>
 * <a href="#Experimental Results">Experimental Results</a>
 * <a href="#Conclusions">Conclusions</a>
 * <a href="#The original link of the thesis">The original link of the thesis</a>
@@ -159,7 +166,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 </font></p>
 </div>
 
-## <b><font face="segoe script" color="blue" size="2">1.Conditional Grid Extension</font></b>
+## <h2 id="Conditional Grid Extension"><b><font face="segoe script" color="blue" size="2">1.Conditional Grid Extension</font></b><h2>
 
 <div class="divcss5">
 <p>In [1], the number of effective grids during un-coarsening is usually limited, which results in the insufficient number of edges for coarsened graph.</p>
@@ -193,7 +200,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 
    
 
-## <b><font face="segoe script" color="blue" size="2">2.HVH Channel Routing</font></b>
+## <h2 id="HVH Channel Routing"><b><font face="segoe script" color="blue" size="2">2.HVH Channel Routing</font></b><h2>
 
 <div class="divcss5">
 <p>In [2] and [3], the detail of interlayer connection was ignored.
@@ -242,7 +249,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 </div>
 
 
-## <b><font face="segoe script" color="blue" size="2">3.Revision of Pin Locations </font></b>
+## <h2 id="Grid Location Revision"><b><font face="segoe script" color="blue" size="2">3.Revision of Pin Locations </font></b><h2>
 
 <div class="divcss5">  
 <p>It used to assign pins and TSVs as well as calculating the wirelength based on the assumption that pins are located at the center of the grid. Error is accumulated.</p>
@@ -261,7 +268,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 
 
 
-## <b><font face="segoe script" color="blue" size="2">4.Thermal Resistive Model</font></b>
+## <h2 id="Thermal Resistive Model"><b><font face="segoe script" color="blue" size="2">4.Thermal Resistive Model</font></b><h2>
 
 <div class="divcss5"> 
 <p>[4] made use of thermal model in 3D-IC and proposed some compression storage method to calculations.
@@ -371,7 +378,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 
 
 
-## <b><font face="segoe script" color="blue" size="2">5.Multi-pins in a Net</font></b>
+## <h2 id="Multi-pins in a Net"><b><font face="segoe script" color="blue" size="2">5.Multi-pins in a Net</font></b><h2>
 
 <div class="divcss5"> 
 <p>[5] and [6] discussed different TSV assignment model. But there are still only two pins in a net.</p>
