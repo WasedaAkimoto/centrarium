@@ -260,14 +260,117 @@ In my research, the multi-level assignment will follow the following prosedure.
 
 ## <b><font face="segoe script" color="blue" size="2">4.Thermal Resistive Model</font></b>
 
+* Heat Dissipation Path
+<div class="divcss5"> 
+<p>our model properly takes the effect of layer assignment and thermal TSV into consideration according to the heat dissipation path.</p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/3-1.JPG)
+<div class="divcss5">
+<p><font size="1">Heat dissipation path
+</font></p>
+</div>
+
+* Thermal Resistance
+    R=(T<sub>2</sub>-T<sub>1</sub>)/P
+<div class="divcss5"> 
+<p>Where T<sub>2</sub>−T<sub>1</sub> is the temperature difference between two edges of an object, P is the power consumption.
+</p>
+</div>
+
+* Thermal Conductance
+
+    g=1/R
+
+<div class="divcss5"> 
+<p>[4] made use of thermal model in 3D-IC and proposed some compression storage method to calculations.
+</p>
+</div>
+
+* Merits of my work
+
+<div class="divcss5"> 
+<p>We could simulate temperature distribution of each layer and optimize the thermal condition of overheated regions. 
+</p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/t23.JPG)
+
+* Resistive network
+
+<div class="divcss5"> 
+1. Coefficients
+
+
+
+<p>- <span style="text-decoration:overline;">V<sub>i</sub></span>: constant room temperature</p>
+
+<p>- v<sub>i</sub>: temperature of node i that needs evaluating</p>
+
+<p>- I<sub>i</sub>: heat generated at node i that changes according to the signal TSV number in the corresponding grid</p>
+
+<p>- g<sub>i,j</sub>: thermal conductivity between node i and j.</p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/1-4.JPG)
+<div class="divcss5">
+<p><font size="1">Resistive network of one chip die with 4 x 4 grid size
+</font></p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/1-5new.JPG)
+<div class="divcss5">
+<p><font size="1">Incoming current for node i
+</font></p>
+</div>
+
+
+
+
+<div class="divcss5"> 
+2. For a chip consists of m x n grids, according to Current Conservation Theorem,
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/t10.JPG)
+
+<div class="divcss5"> 
+3. Resistive network
+<p>- Matrix equation of one chip die</p> 
+    G*V=I+<span style="text-decoration:overline;">V</span>=<span style="text-decoration:overline;">I</span>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/t12.JPG)
+
+<div class="divcss5"> 
+<p>Value of g<sub>i,j</sub>,</p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/t11.JPG)
+
+<div class="divcss5"> 
+<p>
+- Matrix equation of 3D-IC</p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/t13.JPG)
+
+<div class="divcss5"> 
+4. Effect of thermal TSV
+<p>- Overheated grids, `v &ge v<sub>th</sub>`, where v<sub>th</sub> is the value of 10% highest temperature of grids.</p>
+<p>- The number of thermal TSV on each grid</p>
+    ttsv<sub>num</sub>=(grid area-total area of components)/(thermal TSV area)
+<p>Thermal TSV brings parallel thermal conductance.</p>
+    g<sub>ij</sub>
+<p>Get the new `V={v<sub>1</sub>,v<sub>2</sub>...v<sub>n</sub>}` by calculating the matrix equation.</p>
+</div>
+
+
 
 ## <b><font face="segoe script" color="blue" size="2">5.Multi-pins in a Net</font></b>
-
-
 <a href="#Index">Click here to return to the Index</a>
 -------
 
-<h2 id="The original link of the thesis">The original link of the thesis:</h2>
+<h2 id="The original link of the thesis"><b><font face="segoe script"><font color="blue">The original link of the thesis:</font></font></b></h2>
 
 ## <b><font face="segoe script" color="blue" size="2">International conference PATMOS thesis</font></b>
 
@@ -278,7 +381,6 @@ In my research, the multi-level assignment will follow the following prosedure.
 <a href="http://pba9e7hoh.bkt.clouddn.com/Thesis_44161555-9ZhaoYi.pdf"><font size="4"><b>"TSV Assignment of Thermal and Wirelength Optimization for 3D-IC"</b></font></a>
 
 <a href="#Index">Click here to return to the Index</a>
-
 
 
 
