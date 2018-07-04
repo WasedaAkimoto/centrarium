@@ -378,7 +378,7 @@ In [[2]] and [[3]], the detail of interlayer connection was ignored.
 <p>- The number of thermal TSV on each grid</p>
     ttsv<sub>num</sub>=(grid area-total area of components)/(thermal TSV area)
 <p>Thermal TSV brings parallel thermal conductance.</p>
-    g<sub>ij</sub> &rarr g<sub>ij</sub>+g<sub>TSV</sub>*ttsv<sub>num</sub>
+    g<sub>ij</sub> &rarr; g<sub>ij</sub>+g<sub>TSV</sub>*ttsv<sub>num</sub>
 <p>Get the new V={v<sub>1</sub>,v<sub>2</sub>...v<sub>n</sub>} by calculating the matrix equation.</p>
 </div>
 
