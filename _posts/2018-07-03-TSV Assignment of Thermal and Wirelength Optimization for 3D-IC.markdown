@@ -194,7 +194,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 <p>Conditional r could avoid the excessive iterative processes which could save much storage and time.</p>
 </div>
  
-
+<a href="#Index">Click here to return to the Index</a>
  
 
 
@@ -248,6 +248,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 <p>Where l is the number of layer, l<sub>n</sub> is the number of layer the net passes totally, h is the height between adjacent layers and u, v are edges in the net.</p>
 </div>
 
+<a href="#Index">Click here to return to the Index</a>
 
 ## <h2 id="Grid Location Revision"><b><font face="segoe script" color="blue" size="2">3.Revision of Pin Locations </font></b><h2>
 
@@ -266,7 +267,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 <p>Error of wirelength is eliminated.</p>
 </div>
 
-
+<a href="#Index">Click here to return to the Index</a>
 
 ## <h2 id="Thermal Resistive Model"><b><font face="segoe script" color="blue" size="2">4.Thermal Resistive Model</font></b><h2>
 
@@ -376,7 +377,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 <p>Get the new `V={v<sub>1</sub>,v<sub>2</sub>...v<sub>n</sub>}` by calculating the matrix equation.</p>
 </div>
 
-
+<a href="#Index">Click here to return to the Index</a>
 
 ## <h2 id="Multi-pins in a Net"><b><font face="segoe script" color="blue" size="2">5.Multi-pins in a Net</font></b><h2>
 
@@ -534,9 +535,8 @@ HPWL-3DBB
 * We use thermal resistive model to estimate temperature distribution and thermal TSV to decrease temperature.
 * We propose a viable procedure to make assignment in the occasion that multiple pins exist in a net.
 
-
 <a href="#Index">Click here to return to the Index</a>
-------
+-------
 
 <h2 id="The original link of the thesis"><b><font face="segoe script"><font color="blue">The original link of the thesis:</font></font></b></h2>
 
@@ -549,7 +549,7 @@ HPWL-3DBB
 <a href="http://pba9e7hoh.bkt.clouddn.com/Thesis_44161555-9ZhaoYi.pdf"><font size="4"><b>"TSV Assignment of Thermal and Wirelength Optimization for 3D-IC"</b></font></a>
 
 <a href="#Index">Click here to return to the Index</a>
-
+------
 
 
 
