@@ -166,13 +166,13 @@ In my research, the multi-level assignment will follow the following prosedure.
 </font></p>
 </div>
 
-<h3 id="Conditional Grid Extension"><b><font face="segoe script" color="blue" size="2">1.Conditional Grid Extension</font></b><h3>
-------
+## <a id="Conditional Grid Extension"><b><font face="segoe script" color="blue" size="2">1.Conditional Grid Extension</font></b></a>
+
 
 
 <div class="divcss5">
-<p>In [1], the number of effective grids during un-coarsening is usually limited, which results in the insufficient number of edges for coarsened graph.</p>
-<p>[2] proposed an unconditional grid extension that is very time consuming results from iteration in which r is a constant in all levels.</p>
+<p>In [[1]], the number of effective grids during un-coarsening is usually limited, which results in the insufficient number of edges for coarsened graph.</p>
+<p>[[2]] proposed an unconditional grid extension that is very time consuming results from iteration in which r is a constant in all levels.</p>
 </div>
 
 ![](http://pba9e7hoh.bkt.clouddn.com/t9.JPG)
@@ -202,11 +202,11 @@ In my research, the multi-level assignment will follow the following prosedure.
 
    
 
-<h3 id="HVH Channel Routing"><b><font face="segoe script" color="blue" size="2">2.HVH Channel Routing</font></b><h3>
-------
+<a id="HVH Channel Routing"><b><font face="segoe script" color="blue" size="2">2.HVH Channel Routing</font></b></a>
+
 
 <div class="divcss5">
-<p>In [2] and [3], the detail of interlayer connection was ignored.
+<p>In [[2]] and [[3]], the detail of interlayer connection was ignored.
 </p>
 </div>
 
@@ -253,8 +253,8 @@ In my research, the multi-level assignment will follow the following prosedure.
 
 <a href="#Index">Click here to return to the Index</a>
 
-<h3 id="Grid Location Revision"><b><font face="segoe script" color="blue" size="2">3.Revision of Pin Locations </font></b><h3>
-------
+<a id="Grid Location Revision"><b><font face="segoe script" color="blue" size="2">3.Revision of Pin Locations </font></b></a>
+
 
 <div class="divcss5">  
 <p>It used to assign pins and TSVs as well as calculating the wirelength based on the assumption that pins are located at the center of the grid. Error is accumulated.</p>
@@ -273,11 +273,11 @@ In my research, the multi-level assignment will follow the following prosedure.
 
 <a href="#Index">Click here to return to the Index</a>
 
-<h3 id="Thermal Resistive Model"><b><font face="segoe script" color="blue" size="2">4.Thermal Resistive Model</font></b><h3>
-------
+<a id="Thermal Resistive Model"><b><font face="segoe script" color="blue" size="2">4.Thermal Resistive Model</font></b></a>
+
 
 <div class="divcss5"> 
-<p>[4] made use of thermal model in 3D-IC and proposed some compression storage method to calculations.
+<p>[[4]] made use of thermal model in 3D-IC and proposed some compression storage method to calculations.
 </p>
 </div>
 
@@ -384,11 +384,11 @@ In my research, the multi-level assignment will follow the following prosedure.
 
 <a href="#Index">Click here to return to the Index</a>
 
-<h3 id="Multi-pins in a Net"><b><font face="segoe script" color="blue" size="2">5.Multi-pins in a Net</font></b><h3>
-------
+<a id="Multi-pins in a Net"><b><font face="segoe script" color="blue" size="2">5.Multi-pins in a Net</font></b></a>
+
 
 <div class="divcss5"> 
-<p>[5] and [6] discussed different TSV assignment model. But there are still only two pins in a net.</p>
+<p>[[5]] and [[6]] discussed different TSV assignment model. But there are still only two pins in a net.</p>
 </div>
 
 * Merits of my work
@@ -408,7 +408,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 
 
 <div class="divcss5">
-2. Fast Lookup Table Estimation(FLUTE)[7]
+2. Fast Lookup Table Estimation(FLUTE)[[7]]
 <p>Put the pins into Hanan grid and RST is decomposed of a branch of Hanan edges. 1h<sub>1</sub>+2h<sub>2</sub>+1h<sub>3</sub>+1v<sub>1</sub>+1v<sub>2</sub>+2v<sub>3</sub>.</p>
 </div>
 
@@ -517,7 +517,7 @@ HPWL-3DBB
 ![](http://pba9e7hoh.bkt.clouddn.com/t17.JPG)
 
 <div class="divcss5">
-<p>- The value of each physical variable is given in the table.[8]</p>
+<p>- The value of each physical variable is given in the table.[[8]]</p>
 <p>- Table shows the average temperature and number of inserted TSV in each layer.</p>
 <p>- Generally the higher layer has the higher average temperature.</p>
 </div>
