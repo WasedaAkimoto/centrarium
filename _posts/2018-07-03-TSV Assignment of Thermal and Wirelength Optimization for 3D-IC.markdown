@@ -234,7 +234,9 @@ In my research, the multi-level assignment will follow the following prosedure.
 <div class="divcss5">
 <p>Wirelength could be calculated by Manhattan Distance in the bounding box composes of source and sink pin.</p>
 </div>
+
 ![](http://pba9e7hoh.bkt.clouddn.com/t23.JPG)
+
 <div class="divcss5">  
 <p>Where l is the number of layer, l<sub>n</sub> is the number of layer the net passes totally, h is the height between adjacent layers and u, v are edges in the net.</p>
 </div>
@@ -248,8 +250,9 @@ In my research, the multi-level assignment will follow the following prosedure.
 
 * I revise the location coordinates by adding the offset distance to pins.
  
-    d<sub>off</sub>=|node<sub>(1<sub>x</sub>)</sub>-node<sub>(2<sub>x</sub>)</sub> |+|node<sub>(1<sub>y</sub>)</sub>−node<sub>(2<sub>y</sub>)</sub> |
-
+<div class="divcss5">  
+<p>`d<sub>off</sub>=|node<sub>(1<sub>x</sub>)</sub>-node<sub>(2<sub>x</sub>)</sub>|+|node<sub>(1<sub>y</sub>)</sub>−node<sub>(2<sub>y</sub>)</sub>|`</p>
+</div>
 
 * Merits of my work
 <div class="divcss5">  
@@ -259,6 +262,11 @@ In my research, the multi-level assignment will follow the following prosedure.
 
 
 ## <b><font face="segoe script" color="blue" size="2">4.Thermal Resistive Model</font></b>
+
+<div class="divcss5"> 
+<p>[4] made use of thermal model in 3D-IC and proposed some compression storage method to calculations.
+</p>
+</div>
 
 * Heat Dissipation Path
 <div class="divcss5"> 
@@ -281,11 +289,6 @@ In my research, the multi-level assignment will follow the following prosedure.
 * Thermal Conductance
 
     g=1/R
-
-<div class="divcss5"> 
-<p>[4] made use of thermal model in 3D-IC and proposed some compression storage method to calculations.
-</p>
-</div>
 
 * Merits of my work
 
@@ -336,7 +339,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 <div class="divcss5"> 
 3. Resistive network
 <p>- Matrix equation of one chip die</p> 
-    G*V=I+<span style="text-decoration:overline;">V</span>=<span style="text-decoration:overline;">I</span>
+<p>`G*V=I+<span style="text-decoration:overline;">V</span>=<span style="text-decoration:overline;">I</span>`</p>
 </div>
 
 ![](http://pba9e7hoh.bkt.clouddn.com/t12.JPG)
@@ -358,15 +361,99 @@ In my research, the multi-level assignment will follow the following prosedure.
 4. Effect of thermal TSV
 <p>- Overheated grids, `v &ge v<sub>th</sub>`, where v<sub>th</sub> is the value of 10% highest temperature of grids.</p>
 <p>- The number of thermal TSV on each grid</p>
-    ttsv<sub>num</sub>=(grid area-total area of components)/(thermal TSV area)
+<p>`ttsv<sub>num</sub>=(grid area-total area of components)/(thermal TSV area)`</p>
 <p>Thermal TSV brings parallel thermal conductance.</p>
-    g<sub>ij</sub>
+<p>`g<sub>ij</sub> &rarr g<sub>ij</sub>+g<sub>TSV</sub>*ttsv<sub>num</sub>`</p>
 <p>Get the new `V={v<sub>1</sub>,v<sub>2</sub>...v<sub>n</sub>}` by calculating the matrix equation.</p>
 </div>
 
 
 
 ## <b><font face="segoe script" color="blue" size="2">5.Multi-pins in a Net</font></b>
+
+<div class="divcss5"> 
+<p>[5] and [6] discussed different TSV assignment model. But there are still only two pins in a net.</p>
+</div>
+
+* Merits of my work
+
+<div class="divcss5"> 
+<p>Multi-pins in a net is discussed and I introduce algorithms to help build the tree.</p>
+<p>I consider a more realistic model that a net contains multiple pins denoted as n=(s<sup>1</sup>,s<sup>2</sup>,s<sup>3</sup>...s<sup>m</sup>,t).</p>
+1. Construction of 2D RST
+<p>Project pins onto one plane and construct minimum rectilinear Steiner tree.</p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/5-10.JPG)
+<div class="divcss5">
+<p><font size="1">2S RST
+</font></p>
+</div>
+
+
+<div class="divcss5">
+2. Fast Lookup Table Estimation(FLUTE)[7]
+<p>Put the pins into Hanan grid and RST is decomposed of a branch of Hanan edges. 1h<sub>1</sub>+2h<sub>2</sub>+1h<sub>3</sub>+1v<sub>1</sub>+1v<sub>2</sub>+2v<sub>3</sub>.</p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/5-12.JPG)
+<div class="divcss5">
+<p><font size="1">2D RST
+</font></p>
+</div>
+
+<div class="divcss5">
+<p>We could transfer to linear combination.
+(1,2,1,1,1,2), (1,1,1,1,2,3), (1,2,1,1,1,1).</p>
+<p>Simplicity of comparing wirelength.</p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/5-13.JPG)![](http://pba9e7hoh.bkt.clouddn.com/5-14.JPG)![](http://pba9e7hoh.bkt.clouddn.com/5-15.JPG)
+
+![](http://pba9e7hoh.bkt.clouddn.com/5-12.JPG)
+<div class="divcss5">
+<p><font size="1">3D RST
+</font></p>
+</div>
+
+<div class="divcss5">
+3. Construction of 3D RST
+<p>3 occasions of TSV location relationship</p>
+<p>- tTop is smaller than tBot, we use an edge to connect tTop-th layer with tBot-th;</p>
+<p>- tTop equals to tBot, we could directly use planar wires to connect two TSVs;</p>
+<p>- tTop is larger than tBot, there's overlap of layers so that we needn't add wires between layers, but use existed wires on whichever [tTop,tBot] layer.</p>
+</div>
+![](http://pba9e7hoh.bkt.clouddn.com/5-6.JPG)![](http://pba9e7hoh.bkt.clouddn.com/5-7.JPG)![](http://pba9e7hoh.bkt.clouddn.com/5-8.JPG)
+
+<div class="divcss5">
+4. Wirelength Metrics
+</div>
+
+<div class="divcss5">
+HPWL-2DBB
+</div>
+![](http://pba9e7hoh.bkt.clouddn.com/t25.JPG)
+<div class="divcss5">
+HPWL-3DBB
+</div>
+![](http://pba9e7hoh.bkt.clouddn.com/t26.JPG)
+
+<div class="divcss5">
+<p>HPWL is half perimeter wirelength for short.</p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/5-4.JPG)
+<div class="divcss5">
+<p><font size="1">HPWL-2DBB
+</font></p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/5-5.JPG)
+<div class="divcss5">
+<p><font size="1">HPWL-3DBB
+</font></p>
+</div>
+
 <a href="#Index">Click here to return to the Index</a>
 -------
 
