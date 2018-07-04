@@ -37,7 +37,7 @@ Keywords: Monitoring of Water Quality, Microbial Fuel Cells, Controller Board.
 <img src="http://ouu5qk2pq.bkt.clouddn.com/t4.jpg">
 
 <h2> The Whole Works<br />
-<img src="http://ouu5qk2pq.bkt.clouddn.com/t5.jpg">
+<img src="http://ouu5qk2pq.bkt.clouddn.com/t5.jpg"></h2>
 
 <h1>The <b>PCB schematic figure</b> of the main control board:<br />
 <a href="http://ouu5qk2pq.bkt.clouddn.com/scchfzy%2018795880390.pdf">PCB Files</a></h1>
