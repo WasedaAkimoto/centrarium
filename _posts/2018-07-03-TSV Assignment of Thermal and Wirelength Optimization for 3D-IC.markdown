@@ -280,7 +280,9 @@ In my research, the multi-level assignment will follow the following prosedure.
 </div>
 
 * Thermal Resistance
+
     R=(T<sub>2</sub>-T<sub>1</sub>)/P
+
 <div class="divcss5"> 
 <p>Where T<sub>2</sub>−T<sub>1</sub> is the temperature difference between two edges of an object, P is the power consumption.
 </p>
@@ -306,7 +308,7 @@ In my research, the multi-level assignment will follow the following prosedure.
 
 
 
-<p>- <span style="text-decoration:overline;">V<sub>i</sub></span>: constant room temperature</p>
+<p>- <span style="text-decoration:overline;">V</span><sub>i</sub>: constant room temperature</p>
 
 <p>- v<sub>i</sub>: temperature of node i that needs evaluating</p>
 
@@ -456,6 +458,78 @@ HPWL-3DBB
 
 <a href="#Index">Click here to return to the Index</a>
 -------
+
+<h2 id="Experimental Results"><b><font face="segoe script"><font color="blue">Experimental Results</font></font></b></h2>
+
+1. Experimental Environment
+<div class="divcss5">
+<p>I test algorithms using C programming language on the 2.5GHz Intel(R) Core(M) workstation with 8-GB memory.</p>
+<p>- grid size: Each layer is divided into g1xg2 grids.</p>
+<p>- layer: The number of chip dies of 3D-IC.</p>
+<p>- #net: The total number of nets in the netlists.</p>
+<p>- #g_exist: The number of grids with capacity, which could contain TSVs.</p>
+<p>- #max cap: The maximum capacity of grids.</p>
+</div>
+![](http://pba9e7hoh.bkt.clouddn.com/t16.JPG)
+
+2. Evaluation of Conditional Grid Extension Algorithm
+
+![](http://pba9e7hoh.bkt.clouddn.com/t22.JPG)
+<div class="divcss5">
+<p>- Unconditional grid extension reduces the wirelength by 5.1% and conditional grid extension reduces by 8.2%.</p>
+<p>- Conditional grid extension eliminates on average 32.7% overflows.</p>
+<p>- Conditional grid extension could save the time cost by 30.2% on average.</p>
+</div>
+
+3. With/Without HVH Structure and Location Revision
+
+![](http://pba9e7hoh.bkt.clouddn.com/t21.JPG)
+<div class="divcss5">
+<p>- I use Mahattan Distance in HVH channel, wirelength is 13.2% to 20.5%, 18.2% on average more accurate.</p>
+<p>- Location revision step makes the results more accurate by 8% on average.</p>
+</div>
+
+4. Evaluation of Temperature Distribution
+
+![](http://pba9e7hoh.bkt.clouddn.com/t17.JPG)
+
+<div class="divcss5">
+<p>- The value of each physical variable is given in the table.[8]</p>
+<p>- Table shows the average temperature and number of inserted TSV in each layer.</p>
+<p>- Generally the higher layer has the higher average temperature.</p>
+</div>
+![](http://pba9e7hoh.bkt.clouddn.com/t18.JPG)
+
+<div class="divcss5">
+<p>- The temperature is increasing as the color going to red from blue.</p>
+<p>- The color of overheated regions of the circuits fades proving the heat dissipation path makes sense.</p>
+</div>
+
+![](http://pba9e7hoh.bkt.clouddn.com/6-1new.JPG)
+
+5. Comparison of MST-based and RST-based floorplan
+
+
+![](http://pba9e7hoh.bkt.clouddn.com/t20.JPG)
+
+<div class="divcss5">
+<p>- By using RST the HPWL-3D could be reduced 10% around and the number of TSVs is 18% less.</p>
+<p>- With the number of dies goes up, the improvement by RST becomes more obvious.</p>
+</div>
+
+<a href="#Index">Click here to return to the Index</a>
+------
+
+<h2 id="Conclusions"><b><font face="segoe script"><font color="blue">Conclusions</font></font></b></h2>
+
+* We apply conditional grid extension method to extend the effective grids, which reduces many overflows and saves much time.
+* Our HVH channel and location revision considers more realistic occasions making results more accurate.
+* We use thermal resistive model to estimate temperature distribution and thermal TSV to decrease temperature.
+* We propose a viable procedure to make assignment in the occasion that multiple pins exist in a net.
+
+
+<a href="#Index">Click here to return to the Index</a>
+------
 
 <h2 id="The original link of the thesis"><b><font face="segoe script"><font color="blue">The original link of the thesis:</font></font></b></h2>
 
