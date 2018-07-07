@@ -8,7 +8,7 @@ tags:	CookByMyself DeliciousFood
 cover:  "/assets/meishi/cbc9d942892311e6a9a10242ac110002_800w_533h.jpg"
 ---
 
-# <font face="segoe script">首先剥去洋葱外皮，切成条状。注意切洋葱辣眼睛哦(*･ω< ) ，女孩子可以丢给男朋友去做heiheihei</font>
+# <font face="segoe script">首先剥去洋葱外皮，切成条状。注意切洋葱辣眼睛哦(*･ω< ) ，女孩子可以丢给男朋友去做heihei</font>
 ![](http://ox2jumurr.bkt.clouddn.com/yangcongyouyu1.JPG)
 # 鱿鱼解冻，往碗里倒入料酒、十三香等，用手拌一拌腌制。
 ![](http://ox2jumurr.bkt.clouddn.com/yangcongyouyu2.JPG)
