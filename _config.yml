@@ -26,7 +26,7 @@ url: "https://wasedaakimoto.github.io" # the base hostname & protocol for your s
 cover: "/assets/header_image.jpg"
 logo:  "/assets/logo.png"
 
-# Build settingsv
+# Build settings
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
@@ -210,10 +210,19 @@ social:
 
   - name: Weibo
     icon: weibo
-    username: 秋本明AkimotoAkila
+    username: 秋本明AkimotoAkira
     url: http://weibo.com/3592131742/profile?rightmod=1&wvr=6&mod=personinfo
     desc: Follow me on Weibo
     share: true
+    
+  - name: ORCID
+    icon: 
+    username: Yi Zhao
+    url: https://orcid.org/0000-0002-0723-2301
+    desc: Share academic outcomes
+    share: true
+    
+    <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-0723-2301" href="https://orcid.org/0000-0002-0723-2301" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-0723-2301</a></div>
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
