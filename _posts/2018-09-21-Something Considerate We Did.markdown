@@ -8,7 +8,7 @@ tags:	Love Moving
 cover:  "/assets/Lianghongyushasha.jpeg"
 ---
 
-<font size="20" font size="segoe script">This is a story began from 21st September, 2018.</font></font>
+<font size="20" font size="segoe script">This is a story began from 21st September, 2018.</font>
 
 
 ------
