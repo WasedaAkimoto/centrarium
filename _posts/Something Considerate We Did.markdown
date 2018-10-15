@@ -10,9 +10,10 @@ cover:  "/assets/meishi/20131221170652-1363169981.jpg"
 
 <font size="20" font size="segoe script">This is a story began from 21st September, 2018.</font></font>
 
-<font face="segoe script">14th Oct. 2018</font>
 
 ------
+
+<font face="segoe script">14th Oct. 2018</font>
 
 She took an orange to me as a gift the firt time I went to NUEC for an appointment. 
 What made me surprised is there's a smile face drawn on the surface. Honestly speaking it was a terrifing face 
