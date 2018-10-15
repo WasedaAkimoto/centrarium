@@ -26,7 +26,7 @@ url: "https://wasedaakimoto.github.io" # the base hostname & protocol for your s
 cover: "/assets/header_image.jpg"
 logo:  "/assets/logo.png"
 
-# Build settings
+# Build settingsv
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
