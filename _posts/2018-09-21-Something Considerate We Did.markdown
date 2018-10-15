@@ -5,7 +5,7 @@ date:   2018-09-21 18:38:03
 author: Akimoto
 categories: Intimacy
 tags:	Love Moving
-cover:  "/assets/meishi/20131221170652-1363169981.jpg"
+cover:  "/assets/Lianghongyushasha.jpeg"
 ---
 
 <font size="20" font size="segoe script">This is a story began from 21st September, 2018.</font></font>
@@ -18,7 +18,7 @@ cover:  "/assets/meishi/20131221170652-1363169981.jpg"
 She took an orange to me as a gift the firt time I went to NUEC for an appointment. 
 What made me surprised is there's a smile face drawn on the surface. Honestly speaking it was a terrifing face 
 hahaha and I was afraid it would bring nightmare to me.
-
+![](http://pgmw2708d.bkt.clouddn.com/webwxgetmsgimg%20%284%29.jpeg)
 
 
 
