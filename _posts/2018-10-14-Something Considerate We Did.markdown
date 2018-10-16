@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Something Considerate We Did
+title:  Something Considerate We Did_Orange Grimace
 date:   2018-10-14 11:38:03
 author: Akimoto
 categories: Intimacy
@@ -16,7 +16,7 @@ cover:  "/assets/Lianghongyushasha.jpeg"
 <font face="segoe script">14th Oct. 2018</font>
 
 She took an orange to me as a gift the firt time I went to NUEC for an appointment. 
-What made me surprised is there's a smile face drawn on the surface. Honestly speaking it was a terrifing face 
+What made me surprised is there was a smile face drawn on the surface. Honestly speaking it was a terrifing face 
 hahaha and I was afraid it would bring nightmare to me.
 ![](http://pgmw2708d.bkt.clouddn.com/webwxgetmsgimg%20%284%29.jpeg)
 
