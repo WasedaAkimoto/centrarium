@@ -18,8 +18,8 @@ cover:  "/assets/Lianghongyushasha.jpeg"
 It was already 3 days that I felt something went wrong with her. I finally failed to control myself to ask. The same as I imagined, she had a 
 tiresome feeling. I have to work in the daytime and she has study task at night, time and distance restrain we enhance our relationship on the two aspects. 
 I have no idea how to make the situation better, the only thing I can do is just trying to spend more time and emotion on her. The choice is 
-still holden on her hand, but I won't change my attitude I wanna treat her well. <font color="blue" size="segoe script">As she said, people could always meet a better one but it's enough 
-the one is she.</font>
+still holden on her hand, but I won't change my attitude I wanna treat her well. <font color="blue"><font size="segoe script">As she said, people could always meet a better one but it's enough 
+the one is she.</font></font>
 ![](http://pgmw2708d.bkt.clouddn.com/true.jpeg)
 
 
