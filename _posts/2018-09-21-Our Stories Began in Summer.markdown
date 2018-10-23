@@ -22,7 +22,7 @@ But most fortuantely, I contacted her again when I was in Nanjing karaoking in M
 that she said she had no plan on vacation and Shanghai Zoo was a wonderful place, where people could make appointment there. I took the 
 wrong meaning of words that she could come out if appointment. I was a little shocked and replied we could have a meal together when I was
 back to Shanghai. She obviously felt curious, "Why did you make an invitation so suddenly haha?" Both of us laughed as we figured the 
-misunderstanding out. It strengthened our relationship just due to an unexpected misunderstanding.
+misunderstanding out. It strengthened my adorable feeling to her just due to an unexpected misunderstanding.
 
 
 
