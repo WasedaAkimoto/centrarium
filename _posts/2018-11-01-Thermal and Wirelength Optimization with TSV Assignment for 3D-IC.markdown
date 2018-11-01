@@ -20,7 +20,7 @@ cover:  "/assets/AAEAAQAAAAAAAAhdAAAAJDljZDFlNDc5LWZjNWQtNDgyNC1hM2ViLTA2M2QzYTQ
 
 ## <b><font face="segoe script" color="blue" size="2">IEEE Transactions on Electron Devices paper</font></b>
 
-<a href="http://pba9e7hoh.bkt.clouddn.com/08464161.pdf"><font size="4"><b>"Thermal and Wirelength Optimization with TSV Assignment for 3D-IC"</b></font></a>
+<a href="http://pba9e7hoh.bkt.clouddn.com/ted-zhao-2875933-proof.pdf"><font size="4"><b>"Thermal and Wirelength Optimization with TSV Assignment for 3D-IC"</b></font></a>
 
 ------
 
