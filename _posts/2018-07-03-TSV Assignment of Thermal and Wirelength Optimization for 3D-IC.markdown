@@ -568,7 +568,7 @@ HPWL-3DBB
 
 ## <b><font face="segoe script" color="blue" size="2">IEEE Transactions on Electron Devices paper</font></b>
 
-<a href="http://pba9e7hoh.bkt.clouddn.com/08464161.pdf"><font size="4"><b>"TSV Assignment of Thermal and Wirelength Optimization for 3D-IC"</b></font></a>
+<a href="http://pba9e7hoh.bkt.clouddn.com/08464161.pdf"><font size="4"><b>"Thermal and Wirelength Optimization with TSV Assignment for 3D-IC"</b></font></a>
 
 ## <b><font face="segoe script" color="blue" size="2">Graduation dissertation</font></b>
 
