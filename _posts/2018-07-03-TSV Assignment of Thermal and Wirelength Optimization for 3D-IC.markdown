@@ -562,9 +562,13 @@ HPWL-3DBB
 
 <h2 id="The original link of the thesis"><b><font face="segoe script"><font color="blue">The original link of the thesis:</font></font></b></h2>
 
-## <b><font face="segoe script" color="blue" size="2">International conference PATMOS thesis</font></b>
+## <b><font face="segoe script" color="blue" size="2">2018 28th International Symposium on Power and Timing Modeling, Optimization and Simulation (PATMOS) thesis</font></b>
 
-<a href="http://pba9e7hoh.bkt.clouddn.com/conference_071817.pdf"><font size="4"><b>"TSV Assignment of Thermal and Wirelength Optimization for 3D-IC"</b></font></a>
+<a href="http://pba9e7hoh.bkt.clouddn.com/08464161.pdf"><font size="4"><b>"TSV Assignment of Thermal and Wirelength Optimization for 3D-IC"</b></font></a>
+
+## <b><font face="segoe script" color="blue" size="2">IEEE Transactions on Electron Devices paper</font></b>
+
+<a href="http://pba9e7hoh.bkt.clouddn.com/08464161.pdf"><font size="4"><b>"TSV Assignment of Thermal and Wirelength Optimization for 3D-IC"</b></font></a>
 
 ## <b><font face="segoe script" color="blue" size="2">Graduation dissertation</font></b>
 
