@@ -1,5 +1,5 @@
 ---
-layout: posth
+layout: post
 title:  Something Considerate We Did_Drunk and Dizzy Girl
 date:   2018-10-07 16:38:03
 author: Akimoto
