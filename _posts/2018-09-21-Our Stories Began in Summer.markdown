@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posth
 title:  Our Stories Began in Summer
 date:   2018-09-21 18:38:03
 author: Akimoto
