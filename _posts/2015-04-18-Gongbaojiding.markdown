@@ -14,7 +14,7 @@ cover:  "/assets/meishi/20131221170652-1363169981.jpg"
 </a>
       
 # 姜蒜切片，胡萝卜和黄瓜切成丁状备用。
-<img src="centrarium/assets/meishi/gongbaojiding1.JPG">
+![](https://wasedaakimoto.github.io/centrarium/assets/meishi/gongbaojiding1.JPG)
 # 锅内倒入食用油，将腌制好的鸡胸肉加入翻炒至鸡肉变白，捞出备用。
 # 也可以再加入鸡肉前先炒糖，这样风味更独特，肉也会被上色。
 
