@@ -16,7 +16,7 @@ cover:  "/assets/meishi/20131221170652-1363169981.jpg"
 # 也可以再加入鸡肉前先炒糖，这样风味更独特，肉也会被上色。
 <img src="/assets/meishi/gongbaojiding3.JPG">
 # 将胡萝卜先倒入锅内翻炒，随后加入黄瓜、花生米等，再将鸡肉倒入一同翻炒，加盐出锅。
-<img src="/assets/meishi/gongbaojiding4.JPG">
+<img src="assets/meishi/gongbaojiding4.JPG">
 # 这样，一盘色香味诱人的宫保鸡丁就完成啦！
 
 
