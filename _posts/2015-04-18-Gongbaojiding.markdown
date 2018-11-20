@@ -9,7 +9,7 @@ cover:  "/assets/meishi/20131221170652-1363169981.jpg"
 ---
 
 # <font face="segoe script">首先把鸡胸肉切块状，撒上黑胡椒、孜然等调料，浇上醇香的料酒和酱油等，加淀粉后搅拌均匀腌制十几分钟。</font>
-![](../assets/meishi/gongbaojiding3.JPG)
+.aaa {background:url(../assets/meishi/gongbaojiding3.JPG);width: 100px;height: 100px;position: relative;}
 # 姜蒜切片，胡萝卜和黄瓜切成丁状备用。
 <img src="/assets/meishi/cbc9d942892311e6a9a10242ac110002_800w_533h.jpg"/>
 # 锅内倒入食用油，将腌制好的鸡胸肉加入翻炒至鸡肉变白，捞出备用。
