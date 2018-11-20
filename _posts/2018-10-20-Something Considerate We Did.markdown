@@ -17,7 +17,7 @@ cover:  "/assets/Lianghongyushasha.jpeg"
 
 I went to Zhongbei Campus to wait for her finishing tutoring class. When I saw her near the school gate, two bunches of flowers were held in her hands. At first I didn’t figure out where the flowers were from and thought someone sent to her as a gift, I even made an inquiry to her...(silly) 
 She bought a little daisy to me and the one for herself was jasmine. Actually I have no knowledge about the plant and feel intractable to recognize different types, which was greatly laughed at. She was also mad at me that I thought the colour of daisy was single hahaha. <font color="blue">I guarantee I would take care of the daisy by heart, we will see the flower blossoms together.</font>
-![](http://pgmw2708d.bkt.clouddn.com/flower.jpeg)
+<img src="{{ site.baseurl }}/assets/intimacy/daisy.jpg">
 
 
 
