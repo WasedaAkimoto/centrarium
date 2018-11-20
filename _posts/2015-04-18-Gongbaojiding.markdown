@@ -12,13 +12,14 @@ cover:  "/assets/meishi/20131221170652-1363169981.jpg"
 <a href="//wasedaakimoto.com/assets/meishi/20131221170652-1363169981.jpg" data-lightbox="falcon9-large">
   <img src="//wasedaakimoto.com/assets/meishi/20131221170652-1363169981.jpg">
 </a>
+      
 # 姜蒜切片，胡萝卜和黄瓜切成丁状备用。
-![](http://pigyyb6am.bkt.clouddn.com/gongbaojiding2.JPG)
+<img src="centrarium/assets/meishi/gongbaojiding1.JPG">
 # 锅内倒入食用油，将腌制好的鸡胸肉加入翻炒至鸡肉变白，捞出备用。
 # 也可以再加入鸡肉前先炒糖，这样风味更独特，肉也会被上色。
-![](http://pigyyb6am.bkt.clouddn.com/gongbaojiding3.JPG)
+
 # 将胡萝卜先倒入锅内翻炒，随后加入黄瓜、花生米等，再将鸡肉倒入一同翻炒，加盐出锅。
-![](http://pigyyb6am.bkt.clouddn.com/gongbaojiding4.JPG)
+
 # 这样，一盘色香味诱人的宫保鸡丁就完成啦！
 
 
