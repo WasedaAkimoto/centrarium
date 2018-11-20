@@ -20,7 +20,8 @@ tiresome feeling. I have to work in the daytime and she has study task at night,
 I have no idea how to make the situation better, the only thing I can do is just trying to spend more time and emotion on her. The choice is 
 still holden on her hand, but I won't change my attitude I wanna treat her well. <font color="blue"><font size="segoe script">As she said, people could always meet a better one but it's enough 
 the one is she.</font></font>
-![](http://pgmw2708d.bkt.clouddn.com/true.jpeg)
+
+<img src="{{ site.baseurl }}/assets/intimacy/true.jpeg">
 
 
 
