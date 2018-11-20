@@ -9,8 +9,8 @@ cover:  "/assets/meishi/20131221170652-1363169981.jpg"
 ---
 
 # <font face="segoe script">首先把鸡胸肉切块状，撒上黑胡椒、孜然等调料，浇上醇香的料酒和酱油等，加淀粉后搅拌均匀腌制十几分钟。</font>
-<a href="//wasedaakimoto.com/assets/meishi/20131221170652-1363169981.jpg" data-lightbox="falcon9-large">
-  <img src="//wasedaakimoto.com/assets/meishi/20131221170652-1363169981.jpg">
+<a href="//wasedaakimoto.com" data-lightbox="falcon9-large">
+  <img src="//centrarium/assets/meishi/gongbaojiding1.JPG">
 </a>
       
 # 姜蒜切片，胡萝卜和黄瓜切成丁状备用。
