@@ -18,8 +18,8 @@ permalink: /resume/
 <!---
 <embed src="http://ouu5qk2pq.bkt.clouddn.com/Various%20Artists%20-%20Liekkas.mp3" hidden="true" autostart="true" loop="true">--->
 
-![](https://wasedaakimoto.github.io/centrarium/assets/_DSC9146.jpg)
-
+![](https://wasedaakimoto.github.io/centrarium/assets/_DSC9146.JPG)
+ 
 <font size="60"><font color="blue"><font face="segoe script">Education Background</font></font></font>
 ---
 
