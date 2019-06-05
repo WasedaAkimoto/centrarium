@@ -5,10 +5,10 @@ date:   2019-06-05 20:07:00
 author: Akimoto
 categories: Intimacy
 tags:	Love Charm
-cover:  "/assets/intimacy/hezhao.jpeg"
+cover:  "/assets/hezhao.jpg"
 ---
 
-<font size="40"><font size="segoe script">This is a story began from 21st September, 2018.</font></font>
+<font size="40"><font size="segoe script">This is a story began from 27th March, 2019.</font></font>
 
 
 ------
